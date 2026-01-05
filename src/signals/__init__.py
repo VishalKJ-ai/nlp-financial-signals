@@ -1,0 +1,1 @@
+"""Financial signal extraction modules."""
