@@ -1,0 +1,1033 @@
+"date","title","speaker","source","doc_type","text","url","primary_topic"
+"2015-01-03","Financial stability and resilience","Silvana Tenreyro","boe","speech","Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Financial conditions have remained broadly stable since our last assessment. Equity markets have risen, while corporate bond spreads have remained stable. Overall, financial conditions remain restrictive for the current stage of the cycle.
+
+The global economic environment remains resilient. Growth in major trading partners has remained resilient, with divergent paths across regions. The United States continues to grow above trend, while Latin America faces fiscal consolidation needs.","https://example.com/boe/20150103-0","financial_stability"
+"2015-01-17","The stability of the financial system","Jerome Powell","fed","speech","Financial conditions have fallen since our last assessment. Equity markets have risen, while corporate bond spreads have remained stable. Overall, financial conditions remain neutral for the current stage of the cycle.
+
+Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/fed/20150117-1","financial_stability"
+"2015-02-05","Monetary policy in the current environment","Committee","ecb","minutes","Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+The transmission of our previous rate adjustments to the real economy is still working through. Mortgage rates have begun to ease, and credit conditions have remained tight. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+Financial conditions have fallen since our last assessment. Equity markets have risen, while corporate bond spreads have widened. Overall, financial conditions remain neutral for the current stage of the cycle.","https://example.com/ecb/20150205-2","interest_rate_policy"
+"2015-03-01","Financial stability and resilience","Silvana Tenreyro","boe","speech","Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Financial conditions have fallen since our last assessment. Equity markets have risen, while corporate bond spreads have widened. Overall, financial conditions remain neutral for the current stage of the cycle.","https://example.com/boe/20150301-3","financial_stability"
+"2015-03-17","Growth prospects and structural change","Philip Jefferson","fed","speech","The economy grew by 2.8% in the latest quarter, slightly below market expectations. Business investment has recovered, supported by public sector spending. The services sector continues to expand steadily, while manufacturing output has stabilised.
+
+Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has improved in recent months. The housing market shows signs of stabilisation.
+
+Our central projection is for GDP growth of 0.8% in 2026, with risks skewed to the downside. Potential output growth is estimated at around 1.2%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.","https://example.com/fed/20150317-4","economic_growth"
+"2015-04-04","The international economic outlook","Piero Cipollone","ecb","speech","Commodity prices, particularly natural gas, have risen sharply. This reflects weakening global demand. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The global economic environment remains gradually loosening. Growth in major trading partners has diverged, with divergent paths across regions. China continues to grow above trend, while Latin America faces capital outflow pressures.","https://example.com/ecb/20150404-5","global_risks"
+"2015-04-23","Inflation dynamics and the path ahead","Huw Pill","boe","speech","Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Inflation has moderated over the past quarter, with headline CPI edging down to 5.2%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have stabilised, services inflation remains elevated. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.","https://example.com/boe/20150423-6","inflation_outlook"
+"2015-05-13","Labour market dynamics and wages","Michelle Bowman","fed","speech","Labour force participation has stabilised, partly reflecting early retirement trends. Skills shortages persist in healthcare and technology, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+The labour market remains resilient, with the unemployment rate at 3.4%. Employment has increased by 200k over the quarter. Vacancies have continued to fall but remain near historical norms by historical standards.
+
+The labour market remains resilient, with the unemployment rate at 2.1%. Employment has increased by 200k over the quarter. Vacancies have stabilised but remain near historical norms by historical standards.
+
+Commodity prices, particularly oil, have risen sharply. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/fed/20150513-7","labour_market"
+"2015-06-05","The international economic outlook","Christine Lagarde","ecb","speech","Commodity prices, particularly oil, have remained volatile. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Commodity prices, particularly oil, have fallen. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have stabilised, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect further easing in the coming months.","https://example.com/ecb/20150605-8","global_risks"
+"2015-06-19","The changing nature of work","Ben Broadbent","boe","speech","Wage growth has moderated to 5.2% in annual terms. Private sector regular pay growth of 6.3% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+Labour force participation has stabilised, partly reflecting long-term sickness. Skills shortages persist in healthcare and technology, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/boe/20150619-9","labour_market"
+"2015-07-13","The economic outlook","Christopher Waller","fed","speech","Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of continued adjustment.
+
+Our central projection is for GDP growth of 1.4% in 2025, with risks skewed to the downside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.","https://example.com/fed/20150713-10","economic_growth"
+"2015-08-01","Price stability in a changing world","Philip Lane","ecb","speech","The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains elevated. The pass-through from producer prices to consumer prices continues to evolve, and we expect further easing in the coming months.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have stabilised, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect further easing in the coming months.","https://example.com/ecb/20150801-11","inflation_outlook"
+"2015-08-19","Navigating the economic cycle","Committee","boe","minutes","Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has improved in recent months. The housing market shows signs of gradual recovery.
+
+The economy grew by 2.8% in the latest quarter, slightly above market expectations. Business investment has picked up modestly, supported by infrastructure investment. The services sector continues to show resilience, while manufacturing output has shown tentative signs of recovery.","https://example.com/boe/20150819-12","economic_growth"
+"2015-09-04","Price stability in a changing world","Michelle Bowman","fed","speech","Inflation has remained broadly stable over the past quarter, with headline CPI falling to 5.2%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Inflation has remained broadly stable over the past quarter, with headline CPI edging up to 3.9%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/fed/20150904-13","inflation_outlook"
+"2015-09-27","Global risks and domestic implications","Philip Lane","ecb","speech","Geopolitical risks have evolved since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 2.5% on a trade-weighted basis.
+
+The global economic environment remains gradually loosening. Growth in major trading partners has remained resilient, with divergent paths across regions. The United States continues to grow above trend, while sub-Saharan Africa faces fiscal consolidation needs.
+
+The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 13.8%, well above regulatory minima. Credit growth has tightened to 1.8%, reflecting both supply and demand factors.","https://example.com/ecb/20150927-14","global_risks"
+"2015-10-15","The changing nature of work","Dave Ramsden","boe","speech","The labour market remains uncertain, with the unemployment rate at 4.7%. Employment has remained broadly flat by 100k over the quarter. Vacancies have declined but remain elevated by historical standards.
+
+Labour force participation has recovered, partly reflecting early retirement trends. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have remained tight. The full impact of cumulative tightening is expected to materialise over the coming quarters.","https://example.com/boe/20151015-15","labour_market"
+"2015-10-31","The international economic outlook","Committee","fed","minutes","Geopolitical risks have intensified since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 1.2% on a trade-weighted basis.
+
+The global economic environment remains uncertain. Growth in major trading partners has remained resilient, with divergent paths across regions. The euro area continues to face headwinds, while Latin America faces commodity headwinds.
+
+Commodity prices, particularly oil, have fallen. This reflects weakening global demand. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/fed/20151031-16","global_risks"
+"2015-11-19","Inflation dynamics and the path ahead","Committee","ecb","minutes","Inflation has remained broadly stable over the past quarter, with headline CPI edging up to 2.8%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Our projections indicate that inflation will remain elevated before easing over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+The banking sector continues to exhibit adequate capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 13.8%, well above regulatory minima. Credit growth has remained tight to 3.2%, reflecting both supply and demand factors.","https://example.com/ecb/20151119-17","inflation_outlook"
+"2015-12-08","Navigating global uncertainty","Committee","boe","minutes","Commodity prices, particularly natural gas, have fallen. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Geopolitical risks have remained elevated since our previous assessment. Tensions in the Middle East continue to affect energy markets. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 0.8% on a trade-weighted basis.
+
+Geopolitical risks have remained elevated since our previous assessment. Trade policy uncertainty has risen following recent tariff announcements. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has remained broadly stable by 2.5% on a trade-weighted basis.","https://example.com/boe/20151208-18","global_risks"
+"2015-12-29","Global risks and domestic implications","Michelle Bowman","fed","speech","Commodity prices, particularly agricultural commodities, have remained volatile. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The global economic environment remains gradually loosening. Growth in major trading partners has diverged, with divergent paths across regions. China continues to grow above trend, while emerging Asia faces capital outflow pressures.
+
+Financial conditions have risen since our last assessment. Equity markets have risen, while corporate bond spreads have narrowed. Overall, financial conditions remain restrictive for the current stage of the cycle.","https://example.com/fed/20151229-19","global_risks"
+"2016-01-17","Navigating global uncertainty","Committee","ecb","minutes","Geopolitical risks have intensified since our previous assessment. Tensions in the Middle East continue to affect energy markets. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has remained broadly stable by 1.2% on a trade-weighted basis.
+
+The global economic environment remains uncertain. Growth in major trading partners has slowed, with divergent paths across regions. The United States continues to recover gradually, while sub-Saharan Africa faces fiscal consolidation needs.
+
+The labour market remains gradually loosening, with the unemployment rate at 3.9%. Employment has increased by 75k over the quarter. Vacancies have declined but remain above pre-pandemic levels by historical standards.","https://example.com/ecb/20160117-20","global_risks"
+"2016-02-08","Employment, wages, and inflation","Silvana Tenreyro","boe","speech","Labour force participation has remained below pre-pandemic levels, partly reflecting early retirement trends. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+The labour market remains resilient, with the unemployment rate at 3.9%. Employment has declined by 75k over the quarter. Vacancies have continued to fall but remain elevated by historical standards.
+
+Wage growth has remained elevated to 5.2% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have remained tight. The full impact of cumulative tightening is expected to materialise over the coming quarters.","https://example.com/boe/20160208-21","labour_market"
+"2016-02-27","Monetary policy in the current environment","Philip Jefferson","fed","speech","Looking at the path of interest rates, market pricing suggests expectations of a gradual easing over the coming year. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+Looking at the path of interest rates, market pricing suggests expectations of a gradual easing over the coming year. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/fed/20160227-22","interest_rate_policy"
+"2016-03-13","Growth prospects and structural change","Committee","ecb","minutes","The economy grew by 3.9% in the latest quarter, slightly above market expectations. Business investment has remained subdued, supported by infrastructure investment. The services sector continues to moderate, while manufacturing output has contracted.
+
+Our central projection is for GDP growth of 0.8% in 2026, with risks skewed to the upside. Potential output growth is estimated at around 1.2%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Household consumption remains subdued, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of continued adjustment.
+
+Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by mid-2026. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.","https://example.com/ecb/20160313-23","economic_growth"
+"2016-04-05","Inflation dynamics and the path ahead","Committee","boe","minutes","Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect further easing in the coming months.
+
+Inflation has risen over the past quarter, with headline CPI edging down to 3.4%. Core inflation, which strips out volatile food and energy prices, has shown signs of easing. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Financial conditions have risen since our last assessment. Equity markets have declined, while corporate bond spreads have narrowed. Overall, financial conditions remain neutral for the current stage of the cycle.","https://example.com/boe/20160405-24","inflation_outlook"
+"2016-04-22","The economic outlook","Michelle Bowman","fed","speech","Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of stabilisation.
+
+Our central projection is for GDP growth of 1.2% in 2025, with risks skewed to the downside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Our central projection is for GDP growth of 0.5% in 2025, with risks skewed to the upside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Financial conditions have risen since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have widened. Overall, financial conditions remain accommodative for the current stage of the cycle.","https://example.com/fed/20160422-25","economic_growth"
+"2016-05-15","Macroprudential policy and financial conditions","Fabio Panetta","ecb","speech","The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 13.8%, well above regulatory minima. Credit growth has shown tentative loosening to 3.2%, reflecting both supply and demand factors.
+
+Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+The economy grew by 4.7% in the latest quarter, broadly in line with market expectations. Business investment has recovered, supported by improved business sentiment. The services sector continues to show resilience, while manufacturing output has shown tentative signs of recovery.","https://example.com/ecb/20160515-26","financial_stability"
+"2016-06-03","Navigating global uncertainty","Committee","boe","minutes","Commodity prices, particularly agricultural commodities, have risen sharply. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Commodity prices, particularly natural gas, have remained volatile. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/boe/20160603-27","global_risks"
+"2016-06-22","Macroprudential policy and financial conditions","Jerome Powell","fed","speech","Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has remained tight to 2.5%, reflecting both supply and demand factors.
+
+The banking sector continues to exhibit adequate capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 13.8%, well above regulatory minima. Credit growth has remained tight to 3.2%, reflecting both supply and demand factors.
+
+Inflation has moderated over the past quarter, with headline CPI falling to 2.8%. Core inflation, which strips out volatile food and energy prices, has edged higher. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/fed/20160622-28","financial_stability"
+"2016-07-10","The changing nature of work","Committee","ecb","minutes","The labour market remains tight, with the unemployment rate at 4.7%. Employment has remained broadly flat by 100k over the quarter. Vacancies have stabilised but remain near historical norms by historical standards.
+
+Labour force participation has stabilised, partly reflecting early retirement trends. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+The labour market remains uncertain, with the unemployment rate at 3.9%. Employment has remained broadly flat by 100k over the quarter. Vacancies have stabilised but remain elevated by historical standards.
+
+Household consumption remains subdued, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of gradual recovery.","https://example.com/ecb/20160710-29","labour_market"
+"2016-07-28","Macroprudential policy and financial conditions","Dave Ramsden","boe","speech","Financial conditions have moderated since our last assessment. Equity markets have declined, while corporate bond spreads have remained stable. Overall, financial conditions remain accommodative for the current stage of the cycle.
+
+Risks from non-bank financial institutions warrant continued monitoring. Liquidity mismatches in open-ended funds require attention. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/boe/20160728-30","financial_stability"
+"2016-08-15","Employment, wages, and inflation","Committee","fed","minutes","The labour market remains uncertain, with the unemployment rate at 2.8%. Employment has increased by 150k over the quarter. Vacancies have continued to fall but remain near historical norms by historical standards.
+
+Wage growth has remained elevated to 5.5% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/fed/20160815-31","labour_market"
+"2016-09-05","The economic outlook","Fabio Panetta","ecb","speech","Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has improved in recent months. The housing market shows signs of continued adjustment.
+
+The economy grew by 4.7% in the latest quarter, broadly in line with market expectations. Business investment has recovered, supported by infrastructure investment. The services sector continues to moderate, while manufacturing output has contracted.
+
+The economy grew by 3.4% in the latest quarter, slightly below market expectations. Business investment has remained subdued, supported by public sector spending. The services sector continues to moderate, while manufacturing output has shown tentative signs of recovery.
+
+Labour force participation has stabilised, partly reflecting early retirement trends. Skills shortages persist in healthcare and technology, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.","https://example.com/ecb/20160905-32","economic_growth"
+"2016-09-25","Growth prospects and structural change","Sarah Breeden","boe","speech","Our central projection is for GDP growth of 1.2% in 2025, with risks skewed to the downside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+The economy grew by 6.1% in the latest quarter, slightly above market expectations. Business investment has recovered, supported by improved business sentiment. The services sector continues to moderate, while manufacturing output has stabilised.
+
+Inflation has risen over the past quarter, with headline CPI edging up to 5.2%. Core inflation, which strips out volatile food and energy prices, has shown signs of easing. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/boe/20160925-33","economic_growth"
+"2016-10-12","The inflation outlook: challenges and opportunities","Christopher Waller","fed","speech","Inflation has moderated over the past quarter, with headline CPI edging down to 2.1%. Core inflation, which strips out volatile food and energy prices, has edged higher. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Our projections indicate that inflation will remain elevated before easing over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/fed/20161012-34","inflation_outlook"
+"2016-11-04","Financial stability and resilience","Frank Elderson","ecb","speech","The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has remained tight to 3.2%, reflecting both supply and demand factors.
+
+Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+The labour market remains gradually loosening, with the unemployment rate at 2.8%. Employment has increased by 150k over the quarter. Vacancies have continued to fall but remain elevated by historical standards.","https://example.com/ecb/20161104-35","financial_stability"
+"2016-11-23","The stability of the financial system","Ben Broadbent","boe","speech","The banking sector continues to exhibit adequate capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 13.8%, well above regulatory minima. Credit growth has shown tentative loosening to 1.8%, reflecting both supply and demand factors.
+
+The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 14.2%, well above regulatory minima. Credit growth has remained tight to 3.2%, reflecting both supply and demand factors.","https://example.com/boe/20161123-36","financial_stability"
+"2016-12-07","Price stability in a changing world","Committee","fed","minutes","Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+The global economic environment remains gradually loosening. Growth in major trading partners has remained resilient, with divergent paths across regions. The euro area continues to recover gradually, while sub-Saharan Africa faces fiscal consolidation needs.","https://example.com/fed/20161207-37","inflation_outlook"
+"2017-01-01","Navigating global uncertainty","Committee","ecb","minutes","Commodity prices, particularly agricultural commodities, have fallen. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The global economic environment remains tight. Growth in major trading partners has remained resilient, with divergent paths across regions. The euro area continues to face headwinds, while sub-Saharan Africa faces fiscal consolidation needs.
+
+The global economic environment remains tight. Growth in major trading partners has slowed, with divergent paths across regions. The euro area continues to recover gradually, while sub-Saharan Africa faces capital outflow pressures.
+
+Our central projection is for GDP growth of 1.4% in 2025, with risks skewed to the upside. Potential output growth is estimated at around 1.2%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.","https://example.com/ecb/20170101-38","global_risks"
+"2017-01-20","Growth prospects and structural change","Committee","boe","minutes","The economy grew by 5.2% in the latest quarter, slightly above market expectations. Business investment has remained subdued, supported by public sector spending. The services sector continues to show resilience, while manufacturing output has shown tentative signs of recovery.
+
+The economy grew by 3.9% in the latest quarter, broadly in line with market expectations. Business investment has remained subdued, supported by public sector spending. The services sector continues to moderate, while manufacturing output has stabilised.
+
+The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has shown tentative loosening to 2.5%, reflecting both supply and demand factors.","https://example.com/boe/20170120-39","economic_growth"
+"2017-02-03","Navigating the economic cycle","Jerome Powell","fed","speech","Our central projection is for GDP growth of 0.5% in 2026, with risks skewed to the downside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+The economy grew by 6.1% in the latest quarter, slightly above market expectations. Business investment has recovered, supported by public sector spending. The services sector continues to moderate, while manufacturing output has stabilised.
+
+The economy grew by 3.4% in the latest quarter, slightly above market expectations. Business investment has recovered, supported by improved business sentiment. The services sector continues to show resilience, while manufacturing output has stabilised.","https://example.com/fed/20170203-40","economic_growth"
+"2017-02-26","Price stability in a changing world","Fabio Panetta","ecb","speech","Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Inflation has moderated over the past quarter, with headline CPI rising to 2.8%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/ecb/20170226-41","inflation_outlook"
+"2017-03-15","Macroprudential policy and financial conditions","Dave Ramsden","boe","speech","The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has shown tentative loosening to 2.5%, reflecting both supply and demand factors.
+
+The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 13.8%, well above regulatory minima. Credit growth has shown tentative loosening to 3.2%, reflecting both supply and demand factors.
+
+Financial conditions have risen since our last assessment. Equity markets have declined, while corporate bond spreads have narrowed. Overall, financial conditions remain neutral for the current stage of the cycle.
+
+Labour force participation has remained below pre-pandemic levels, partly reflecting long-term sickness. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.","https://example.com/boe/20170315-42","financial_stability"
+"2017-04-03","The path of interest rates","Committee","fed","minutes","The transmission of our previous rate adjustments to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have remained tight. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The Committee voted to reduce the Bank Rate at 3.4%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+Wage growth has accelerated to 7.0% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/fed/20170403-43","interest_rate_policy"
+"2017-04-22","Labour market dynamics and wages","Fabio Panetta","ecb","speech","Labour force participation has remained below pre-pandemic levels, partly reflecting long-term sickness. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+The labour market remains uncertain, with the unemployment rate at 2.1%. Employment has declined by 100k over the quarter. Vacancies have stabilised but remain near historical norms by historical standards.","https://example.com/ecb/20170422-44","labour_market"
+"2017-05-10","Growth prospects and structural change","Committee","boe","minutes","Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of gradual recovery.
+
+Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of gradual recovery.
+
+Our central projection is for GDP growth of 0.5% in 2025, with risks skewed to the upside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Our projections indicate that inflation will remain elevated before easing over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.","https://example.com/boe/20170510-45","economic_growth"
+"2017-05-29","Labour market dynamics and wages","Jerome Powell","fed","speech","The labour market remains resilient, with the unemployment rate at 3.9%. Employment has increased by 150k over the quarter. Vacancies have stabilised but remain above pre-pandemic levels by historical standards.
+
+Wage growth has moderated to 6.1% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect gradual disinflation in the coming months.","https://example.com/fed/20170529-46","labour_market"
+"2017-06-22","Macroprudential policy and financial conditions","Philip Lane","ecb","speech","Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Financial conditions have moderated since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have narrowed. Overall, financial conditions remain neutral for the current stage of the cycle.
+
+The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 14.2%, well above regulatory minima. Credit growth has remained tight to 1.8%, reflecting both supply and demand factors.","https://example.com/ecb/20170622-47","financial_stability"
+"2017-07-07","The inflation outlook: challenges and opportunities","Silvana Tenreyro","boe","speech","The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains sticky. The pass-through from producer prices to consumer prices continues to evolve, and we expect further easing in the coming months.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains sticky. The pass-through from producer prices to consumer prices continues to evolve, and we expect gradual disinflation in the coming months.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains elevated. The pass-through from producer prices to consumer prices continues to evolve, and we expect gradual disinflation in the coming months.
+
+Geopolitical risks have evolved since our previous assessment. Trade policy uncertainty has risen following recent tariff announcements. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has remained broadly stable by 0.8% on a trade-weighted basis.","https://example.com/boe/20170707-48","inflation_outlook"
+"2017-07-25","Navigating global uncertainty","Christopher Waller","fed","speech","Commodity prices, particularly agricultural commodities, have remained volatile. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Commodity prices, particularly agricultural commodities, have fallen. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The global economic environment remains resilient. Growth in major trading partners has slowed, with divergent paths across regions. The euro area continues to grow above trend, while sub-Saharan Africa faces fiscal consolidation needs.
+
+Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.","https://example.com/fed/20170725-49","global_risks"
+"2017-08-13","Growth prospects and structural change","Piero Cipollone","ecb","speech","Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has improved in recent months. The housing market shows signs of stabilisation.
+
+Household consumption remains subdued, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of gradual recovery.
+
+The economy grew by 3.4% in the latest quarter, broadly in line with market expectations. Business investment has recovered, supported by public sector spending. The services sector continues to moderate, while manufacturing output has shown tentative signs of recovery.","https://example.com/ecb/20170813-50","economic_growth"
+"2017-09-04","The changing nature of work","Ben Broadbent","boe","speech","Wage growth has moderated to 6.1% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+Labour force participation has stabilised, partly reflecting increased economic inactivity among older workers. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Labour force participation has remained below pre-pandemic levels, partly reflecting long-term sickness. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Inflation has remained broadly stable over the past quarter, with headline CPI rising to 5.2%. Core inflation, which strips out volatile food and energy prices, has shown signs of easing. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/boe/20170904-51","labour_market"
+"2017-09-20","Macroprudential policy and financial conditions","Lisa Cook","fed","speech","Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 13.8%, well above regulatory minima. Credit growth has shown tentative loosening to 1.8%, reflecting both supply and demand factors.
+
+Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.","https://example.com/fed/20170920-52","financial_stability"
+"2017-10-11","The path of interest rates","Fabio Panetta","ecb","speech","The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have risen further, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+Looking at the path of interest rates, market pricing suggests expectations of a gradual easing over the coming year. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/ecb/20171011-53","interest_rate_policy"
+"2017-11-03","Navigating global uncertainty","Huw Pill","boe","speech","Commodity prices, particularly oil, have fallen. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Geopolitical risks have intensified since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 2.5% on a trade-weighted basis.
+
+Geopolitical risks have remained elevated since our previous assessment. Tensions in the Middle East continue to affect energy markets. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 1.2% on a trade-weighted basis.","https://example.com/boe/20171103-54","global_risks"
+"2017-11-19","Inflation dynamics and the path ahead","Christopher Waller","fed","speech","Inflation has moderated over the past quarter, with headline CPI rising to 2.8%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Inflation has fallen over the past quarter, with headline CPI falling to 2.1%. Core inflation, which strips out volatile food and energy prices, has edged higher. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+The economy grew by 6.1% in the latest quarter, broadly in line with market expectations. Business investment has picked up modestly, supported by public sector spending. The services sector continues to expand steadily, while manufacturing output has shown tentative signs of recovery.","https://example.com/fed/20171119-55","inflation_outlook"
+"2017-12-10","Monetary policy in the current environment","Isabel Schnabel","ecb","speech","Looking at the path of interest rates, market pricing suggests expectations of a gradual easing over the coming year. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+The Committee voted to maintain the Bank Rate at 4.7%. This decision reflects our assessment that the current monetary policy stance is appropriately restrictive. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/ecb/20171210-56","interest_rate_policy"
+"2017-12-27","Price stability in a changing world","Ben Broadbent","boe","speech","Inflation has risen over the past quarter, with headline CPI edging down to 5.2%. Core inflation, which strips out volatile food and energy prices, has shown signs of easing. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by mid-2026. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Commodity prices, particularly oil, have remained volatile. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/boe/20171227-57","inflation_outlook"
+"2018-01-19","The inflation outlook: challenges and opportunities","Lisa Cook","fed","speech","Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Inflation has risen over the past quarter, with headline CPI edging up to 6.1%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Inflation has fallen over the past quarter, with headline CPI edging up to 6.1%. Core inflation, which strips out volatile food and energy prices, has edged higher. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/fed/20180119-58","inflation_outlook"
+"2018-02-01","The stability of the financial system","Committee","ecb","minutes","Risks from non-bank financial institutions warrant continued monitoring. Liquidity mismatches in open-ended funds require attention. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Financial conditions have risen since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have remained stable. Overall, financial conditions remain restrictive for the current stage of the cycle.
+
+Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Geopolitical risks have remained elevated since our previous assessment. Tensions in the Middle East continue to affect energy markets. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 0.8% on a trade-weighted basis.","https://example.com/ecb/20180201-59","financial_stability"
+"2018-02-25","Global risks and domestic implications","Committee","boe","minutes","Geopolitical risks have evolved since our previous assessment. Trade policy uncertainty has risen following recent tariff announcements. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 2.5% on a trade-weighted basis.
+
+Commodity prices, particularly natural gas, have risen sharply. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The labour market remains tight, with the unemployment rate at 5.2%. Employment has increased by 150k over the quarter. Vacancies have declined but remain near historical norms by historical standards.","https://example.com/boe/20180225-60","global_risks"
+"2018-03-15","The international economic outlook","Philip Jefferson","fed","speech","Commodity prices, particularly natural gas, have remained volatile. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Geopolitical risks have evolved since our previous assessment. Trade policy uncertainty has risen following recent tariff announcements. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 1.2% on a trade-weighted basis.
+
+Our central projection is for GDP growth of 1.2% in 2025, with risks skewed to the upside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.","https://example.com/fed/20180315-61","global_risks"
+"2018-04-04","The economic outlook","Philip Lane","ecb","speech","Our central projection is for GDP growth of 1.0% in 2026, with risks skewed to the upside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Our central projection is for GDP growth of 1.4% in 2025, with risks skewed to the upside. Potential output growth is estimated at around 1.2%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Our central projection is for GDP growth of 1.4% in 2026, with risks skewed to the downside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.","https://example.com/ecb/20180404-62","economic_growth"
+"2018-04-19","Price stability in a changing world","Committee","boe","minutes","Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by mid-2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains elevated. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.","https://example.com/boe/20180419-63","inflation_outlook"
+"2018-05-11","The stability of the financial system","Lisa Cook","fed","speech","Financial conditions have risen since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have widened. Overall, financial conditions remain neutral for the current stage of the cycle.
+
+The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has remained tight to 3.2%, reflecting both supply and demand factors.","https://example.com/fed/20180511-64","financial_stability"
+"2018-05-27","The path of interest rates","Fabio Panetta","ecb","speech","The Committee voted to increase the Bank Rate at 2.8%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/ecb/20180527-65","interest_rate_policy"
+"2018-06-19","Employment, wages, and inflation","Andrew Bailey","boe","speech","Wage growth has moderated to 6.1% in annual terms. Private sector regular pay growth of 6.3% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+Wage growth has remained elevated to 5.2% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/boe/20180619-66","labour_market"
+"2018-07-07","Setting policy in uncertain times","Committee","fed","minutes","Looking at the path of interest rates, market pricing suggests expectations of a gradual easing over the coming year. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+Commodity prices, particularly natural gas, have risen sharply. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/fed/20180707-67","interest_rate_policy"
+"2018-07-30","The inflation outlook: challenges and opportunities","Committee","ecb","minutes","Our projections indicate that inflation will remain elevated before easing over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have stabilised, services inflation remains sticky. The pass-through from producer prices to consumer prices continues to evolve, and we expect gradual disinflation in the coming months.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have stabilised, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.","https://example.com/ecb/20180730-68","inflation_outlook"
+"2018-08-17","Employment, wages, and inflation","Sarah Breeden","boe","speech","Labour force participation has remained below pre-pandemic levels, partly reflecting increased economic inactivity among older workers. Skills shortages persist in healthcare and technology, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Wage growth has remained elevated to 4.8% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/boe/20180817-69","labour_market"
+"2018-09-04","Macroprudential policy and financial conditions","Lael Brainard","fed","speech","The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 13.8%, well above regulatory minima. Credit growth has tightened to 2.5%, reflecting both supply and demand factors.
+
+Financial conditions have fallen since our last assessment. Equity markets have declined, while corporate bond spreads have widened. Overall, financial conditions remain accommodative for the current stage of the cycle.","https://example.com/fed/20180904-70","financial_stability"
+"2018-09-25","Monetary policy in the current environment","Philip Lane","ecb","speech","Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+Commodity prices, particularly natural gas, have remained volatile. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/ecb/20180925-71","interest_rate_policy"
+"2018-10-10","The changing nature of work","Huw Pill","boe","speech","Labour force participation has recovered, partly reflecting early retirement trends. Skills shortages persist in hospitality and logistics, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+The labour market remains resilient, with the unemployment rate at 5.2%. Employment has remained broadly flat by 50k over the quarter. Vacancies have declined but remain above pre-pandemic levels by historical standards.
+
+Wage growth has moderated to 5.2% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+Our central projection is for GDP growth of 1.2% in 2026, with risks skewed to the downside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.","https://example.com/boe/20181010-72","labour_market"
+"2018-11-01","The changing nature of work","Lisa Cook","fed","speech","Wage growth has accelerated to 6.1% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+Wage growth has moderated to 4.8% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+The global economic environment remains gradually loosening. Growth in major trading partners has slowed, with divergent paths across regions. The United States continues to recover gradually, while Latin America faces fiscal consolidation needs.","https://example.com/fed/20181101-73","labour_market"
+"2018-11-17","The economic outlook","Frank Elderson","ecb","speech","Household consumption remains subdued, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of continued adjustment.
+
+The economy grew by 3.9% in the latest quarter, slightly below market expectations. Business investment has recovered, supported by public sector spending. The services sector continues to expand steadily, while manufacturing output has stabilised.
+
+The economy grew by 6.1% in the latest quarter, slightly below market expectations. Business investment has remained subdued, supported by public sector spending. The services sector continues to show resilience, while manufacturing output has shown tentative signs of recovery.
+
+Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/ecb/20181117-74","economic_growth"
+"2018-12-10","Macroprudential policy and financial conditions","Sarah Breeden","boe","speech","Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Risks from non-bank financial institutions warrant continued monitoring. Liquidity mismatches in open-ended funds require attention. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+The economy grew by 6.1% in the latest quarter, slightly below market expectations. Business investment has picked up modestly, supported by public sector spending. The services sector continues to moderate, while manufacturing output has stabilised.","https://example.com/boe/20181210-75","financial_stability"
+"2018-12-24","Navigating global uncertainty","Christopher Waller","fed","speech","Geopolitical risks have intensified since our previous assessment. Trade policy uncertainty has risen following recent tariff announcements. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 2.5% on a trade-weighted basis.
+
+The global economic environment remains resilient. Growth in major trading partners has remained resilient, with divergent paths across regions. The United States continues to grow above trend, while emerging Asia faces capital outflow pressures.
+
+Financial conditions have remained broadly stable since our last assessment. Equity markets have risen, while corporate bond spreads have remained stable. Overall, financial conditions remain restrictive for the current stage of the cycle.","https://example.com/fed/20181224-76","global_risks"
+"2019-01-12","Navigating global uncertainty","Frank Elderson","ecb","speech","Geopolitical risks have intensified since our previous assessment. Tensions in the Middle East continue to affect energy markets. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 2.5% on a trade-weighted basis.
+
+Commodity prices, particularly natural gas, have risen sharply. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Geopolitical risks have evolved since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 3.1% on a trade-weighted basis.","https://example.com/ecb/20190112-77","global_risks"
+"2019-02-05","The path of interest rates","Committee","boe","minutes","The Committee voted to increase the Bank Rate at 2.8%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The transmission of our previous rate adjustments to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have remained tight. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/boe/20190205-78","interest_rate_policy"
+"2019-02-21","The stability of the financial system","Lael Brainard","fed","speech","Risks from non-bank financial institutions warrant continued monitoring. Liquidity mismatches in open-ended funds require attention. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 14.2%, well above regulatory minima. Credit growth has shown tentative loosening to 3.2%, reflecting both supply and demand factors.
+
+Inflation has remained broadly stable over the past quarter, with headline CPI rising to 3.9%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/fed/20190221-79","financial_stability"
+"2019-03-17","Employment, wages, and inflation","Fabio Panetta","ecb","speech","Wage growth has moderated to 7.0% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+Wage growth has accelerated to 4.8% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/ecb/20190317-80","labour_market"
+"2019-04-01","Setting policy in uncertain times","Andrew Bailey","boe","speech","Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have risen further, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect gradual disinflation in the coming months.","https://example.com/boe/20190401-81","interest_rate_policy"
+"2019-04-18","The stability of the financial system","Committee","fed","minutes","The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 14.2%, well above regulatory minima. Credit growth has shown tentative loosening to 3.2%, reflecting both supply and demand factors.
+
+Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/fed/20190418-82","financial_stability"
+"2019-05-13","Monetary policy in the current environment","Christine Lagarde","ecb","speech","The Committee voted to increase the Bank Rate at 2.8%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have risen further, and credit conditions have remained tight. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/ecb/20190513-83","interest_rate_policy"
+"2019-05-27","The international economic outlook","Dave Ramsden","boe","speech","The global economic environment remains resilient. Growth in major trading partners has slowed, with divergent paths across regions. The euro area continues to face headwinds, while emerging Asia faces commodity headwinds.
+
+Commodity prices, particularly oil, have remained volatile. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The labour market remains tight, with the unemployment rate at 5.2%. Employment has remained broadly flat by 50k over the quarter. Vacancies have continued to fall but remain above pre-pandemic levels by historical standards.","https://example.com/boe/20190527-84","global_risks"
+"2019-06-21","Growth prospects and structural change","Christopher Waller","fed","speech","Our central projection is for GDP growth of 0.5% in 2026, with risks skewed to the upside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of continued adjustment.
+
+The Committee voted to reduce the Bank Rate at 5.2%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.","https://example.com/fed/20190621-85","economic_growth"
+"2019-07-04","Monetary policy in the current environment","Piero Cipollone","ecb","speech","The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have risen further, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The Committee voted to increase the Bank Rate at 4.7%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains sticky. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.","https://example.com/ecb/20190704-86","interest_rate_policy"
+"2019-07-26","Growth prospects and structural change","Dave Ramsden","boe","speech","Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of gradual recovery.
+
+Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of gradual recovery.
+
+Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of continued adjustment.","https://example.com/boe/20190726-87","economic_growth"
+"2019-08-13","Price stability in a changing world","Christopher Waller","fed","speech","Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by mid-2026. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Inflation has remained broadly stable over the past quarter, with headline CPI edging up to 4.7%. Core inflation, which strips out volatile food and energy prices, has shown signs of easing. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.","https://example.com/fed/20190813-88","inflation_outlook"
+"2019-09-02","Global risks and domestic implications","Fabio Panetta","ecb","speech","Commodity prices, particularly oil, have risen sharply. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Geopolitical risks have evolved since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has remained broadly stable by 2.5% on a trade-weighted basis.
+
+The global economic environment remains gradually loosening. Growth in major trading partners has diverged, with divergent paths across regions. The euro area continues to face headwinds, while emerging Asia faces capital outflow pressures.
+
+The economy grew by 3.4% in the latest quarter, slightly below market expectations. Business investment has remained subdued, supported by public sector spending. The services sector continues to show resilience, while manufacturing output has shown tentative signs of recovery.","https://example.com/ecb/20190902-89","global_risks"
+"2019-09-23","The international economic outlook","Silvana Tenreyro","boe","speech","Geopolitical risks have intensified since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 0.8% on a trade-weighted basis.
+
+Geopolitical risks have remained elevated since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 2.5% on a trade-weighted basis.
+
+The global economic environment remains tight. Growth in major trading partners has diverged, with divergent paths across regions. The United States continues to face headwinds, while sub-Saharan Africa faces fiscal consolidation needs.
+
+Our central projection is for GDP growth of 0.5% in 2026, with risks skewed to the downside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.","https://example.com/boe/20190923-90","global_risks"
+"2019-10-14","The international economic outlook","Lael Brainard","fed","speech","The global economic environment remains tight. Growth in major trading partners has remained resilient, with divergent paths across regions. The United States continues to recover gradually, while Latin America faces capital outflow pressures.
+
+Commodity prices, particularly natural gas, have remained volatile. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Commodity prices, particularly oil, have remained volatile. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/fed/20191014-91","global_risks"
+"2019-10-29","Navigating the economic cycle","Philip Lane","ecb","speech","The economy grew by 3.4% in the latest quarter, slightly above market expectations. Business investment has picked up modestly, supported by public sector spending. The services sector continues to moderate, while manufacturing output has shown tentative signs of recovery.
+
+Household consumption remains subdued, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of stabilisation.","https://example.com/ecb/20191029-92","economic_growth"
+"2019-11-16","Growth prospects and structural change","Andrew Bailey","boe","speech","Household consumption remains subdued, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of stabilisation.
+
+The economy grew by 4.7% in the latest quarter, slightly below market expectations. Business investment has picked up modestly, supported by public sector spending. The services sector continues to show resilience, while manufacturing output has shown tentative signs of recovery.
+
+Our central projection is for GDP growth of 1.4% in 2025, with risks skewed to the upside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Geopolitical risks have evolved since our previous assessment. Tensions in the Middle East continue to affect energy markets. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 2.5% on a trade-weighted basis.","https://example.com/boe/20191116-93","economic_growth"
+"2019-12-06","Navigating the economic cycle","Lael Brainard","fed","speech","Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of stabilisation.
+
+Our central projection is for GDP growth of 1.2% in 2026, with risks skewed to the upside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Geopolitical risks have evolved since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 2.5% on a trade-weighted basis.","https://example.com/fed/20191206-94","economic_growth"
+"2019-12-25","Monetary policy in the current environment","Frank Elderson","ecb","speech","The Committee voted to maintain the Bank Rate at 2.8%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have begun to ease, and credit conditions have remained tight. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/ecb/20191225-95","interest_rate_policy"
+"2020-01-12","The international economic outlook","Huw Pill","boe","speech","Commodity prices, particularly natural gas, have fallen. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The global economic environment remains tight. Growth in major trading partners has slowed, with divergent paths across regions. China continues to face headwinds, while Latin America faces fiscal consolidation needs.
+
+The global economic environment remains resilient. Growth in major trading partners has diverged, with divergent paths across regions. The United States continues to face headwinds, while sub-Saharan Africa faces fiscal consolidation needs.
+
+Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/boe/20200112-96","global_risks"
+"2020-02-05","Financial stability and resilience","Lael Brainard","fed","speech","The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has remained tight to 2.5%, reflecting both supply and demand factors.
+
+Financial conditions have risen since our last assessment. Equity markets have risen, while corporate bond spreads have narrowed. Overall, financial conditions remain neutral for the current stage of the cycle.
+
+Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/fed/20200205-97","financial_stability"
+"2020-02-21","Financial stability and resilience","Philip Lane","ecb","speech","The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has remained tight to 1.8%, reflecting both supply and demand factors.
+
+The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 14.2%, well above regulatory minima. Credit growth has remained tight to 3.2%, reflecting both supply and demand factors.
+
+The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 14.2%, well above regulatory minima. Credit growth has shown tentative loosening to 1.8%, reflecting both supply and demand factors.","https://example.com/ecb/20200221-98","financial_stability"
+"2020-03-14","The changing nature of work","Andrew Bailey","boe","speech","The labour market remains tight, with the unemployment rate at 5.2%. Employment has increased by 150k over the quarter. Vacancies have continued to fall but remain above pre-pandemic levels by historical standards.
+
+Wage growth has remained elevated to 5.2% in annual terms. Private sector regular pay growth of 6.3% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+The labour market remains gradually loosening, with the unemployment rate at 4.7%. Employment has declined by 150k over the quarter. Vacancies have declined but remain above pre-pandemic levels by historical standards.
+
+Commodity prices, particularly natural gas, have remained volatile. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/boe/20200314-99","labour_market"
+"2020-04-02","Monetary policy in the current environment","Lisa Cook","fed","speech","The transmission of our previous rate adjustments to the real economy is still working through. Mortgage rates have risen further, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+Wage growth has accelerated to 5.2% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/fed/20200402-100","interest_rate_policy"
+"2020-04-21","The changing nature of work","Philip Lane","ecb","speech","Labour force participation has recovered, partly reflecting early retirement trends. Skills shortages persist in hospitality and logistics, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Wage growth has moderated to 7.0% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+Labour force participation has remained below pre-pandemic levels, partly reflecting increased economic inactivity among older workers. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.","https://example.com/ecb/20200421-101","labour_market"
+"2020-05-05","Global risks and domestic implications","Committee","boe","minutes","Geopolitical risks have remained elevated since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 3.1% on a trade-weighted basis.
+
+Commodity prices, particularly natural gas, have remained volatile. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Commodity prices, particularly natural gas, have fallen. This reflects weakening global demand. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.","https://example.com/boe/20200505-102","global_risks"
+"2020-05-28","The inflation outlook: challenges and opportunities","Lisa Cook","fed","speech","The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains sticky. The pass-through from producer prices to consumer prices continues to evolve, and we expect gradual disinflation in the coming months.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains elevated. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.","https://example.com/fed/20200528-103","inflation_outlook"
+"2020-06-18","Navigating global uncertainty","Committee","ecb","minutes","The global economic environment remains resilient. Growth in major trading partners has diverged, with divergent paths across regions. China continues to recover gradually, while Latin America faces fiscal consolidation needs.
+
+The global economic environment remains uncertain. Growth in major trading partners has diverged, with divergent paths across regions. China continues to recover gradually, while Latin America faces commodity headwinds.","https://example.com/ecb/20200618-104","global_risks"
+"2020-07-03","Macroprudential policy and financial conditions","Dave Ramsden","boe","speech","The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has tightened to 1.8%, reflecting both supply and demand factors.
+
+The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 14.2%, well above regulatory minima. Credit growth has shown tentative loosening to 3.2%, reflecting both supply and demand factors.
+
+The banking sector continues to exhibit adequate capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has remained tight to 3.2%, reflecting both supply and demand factors.","https://example.com/boe/20200703-105","financial_stability"
+"2020-07-25","Inflation dynamics and the path ahead","Christopher Waller","fed","speech","Inflation has remained broadly stable over the past quarter, with headline CPI rising to 4.7%. Core inflation, which strips out volatile food and energy prices, has edged higher. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Inflation has remained broadly stable over the past quarter, with headline CPI edging down to 2.8%. Core inflation, which strips out volatile food and energy prices, has shown signs of easing. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Our projections indicate that inflation will remain elevated before easing over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Labour force participation has stabilised, partly reflecting early retirement trends. Skills shortages persist in healthcare and technology, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.","https://example.com/fed/20200725-106","inflation_outlook"
+"2020-08-14","Monetary policy in the current environment","Frank Elderson","ecb","speech","The Committee voted to maintain the Bank Rate at 5.2%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/ecb/20200814-107","interest_rate_policy"
+"2020-08-29","Inflation dynamics and the path ahead","Dave Ramsden","boe","speech","The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains elevated. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect gradual disinflation in the coming months.
+
+Financial conditions have fallen since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have remained stable. Overall, financial conditions remain restrictive for the current stage of the cycle.","https://example.com/boe/20200829-108","inflation_outlook"
+"2020-09-17","The path of interest rates","Committee","fed","minutes","The Committee voted to reduce the Bank Rate at 3.9%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The Committee voted to maintain the Bank Rate at 4.7%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/fed/20200917-109","interest_rate_policy"
+"2020-10-09","Global risks and domestic implications","Committee","ecb","minutes","Geopolitical risks have remained elevated since our previous assessment. Tensions in the Middle East continue to affect energy markets. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 0.8% on a trade-weighted basis.
+
+The global economic environment remains uncertain. Growth in major trading partners has diverged, with divergent paths across regions. China continues to recover gradually, while emerging Asia faces capital outflow pressures.
+
+Commodity prices, particularly natural gas, have fallen. This reflects weakening global demand. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/ecb/20201009-110","global_risks"
+"2020-10-28","Employment, wages, and inflation","Committee","boe","minutes","Labour force participation has recovered, partly reflecting long-term sickness. Skills shortages persist in healthcare and technology, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Wage growth has remained elevated to 6.1% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+Wage growth has remained elevated to 6.1% in annual terms. Private sector regular pay growth of 6.3% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/boe/20201028-111","labour_market"
+"2020-11-15","The stability of the financial system","Christopher Waller","fed","speech","Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Financial conditions have risen since our last assessment. Equity markets have declined, while corporate bond spreads have narrowed. Overall, financial conditions remain accommodative for the current stage of the cycle.
+
+Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of continued adjustment.","https://example.com/fed/20201115-112","financial_stability"
+"2020-12-07","Global risks and domestic implications","Piero Cipollone","ecb","speech","The global economic environment remains gradually loosening. Growth in major trading partners has slowed, with divergent paths across regions. China continues to grow above trend, while Latin America faces commodity headwinds.
+
+Commodity prices, particularly natural gas, have fallen. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Commodity prices, particularly agricultural commodities, have risen sharply. This reflects weakening global demand. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/ecb/20201207-113","global_risks"
+"2020-12-26","Financial stability and resilience","Committee","boe","minutes","Financial conditions have risen since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have remained stable. Overall, financial conditions remain accommodative for the current stage of the cycle.
+
+Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Financial conditions have fallen since our last assessment. Equity markets have declined, while corporate bond spreads have remained stable. Overall, financial conditions remain neutral for the current stage of the cycle.","https://example.com/boe/20201226-114","financial_stability"
+"2021-01-13","The international economic outlook","Lisa Cook","fed","speech","Geopolitical risks have intensified since our previous assessment. Trade policy uncertainty has risen following recent tariff announcements. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 3.1% on a trade-weighted basis.
+
+Geopolitical risks have evolved since our previous assessment. Tensions in the Middle East continue to affect energy markets. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has remained broadly stable by 3.1% on a trade-weighted basis.
+
+Commodity prices, particularly natural gas, have remained volatile. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/fed/20210113-115","global_risks"
+"2021-01-30","Navigating global uncertainty","Isabel Schnabel","ecb","speech","Geopolitical risks have remained elevated since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 1.2% on a trade-weighted basis.
+
+The global economic environment remains uncertain. Growth in major trading partners has slowed, with divergent paths across regions. China continues to face headwinds, while emerging Asia faces capital outflow pressures.","https://example.com/ecb/20210130-116","global_risks"
+"2021-02-22","Navigating the economic cycle","Committee","boe","minutes","Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of continued adjustment.
+
+Our central projection is for GDP growth of 1.0% in 2026, with risks skewed to the upside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Our central projection is for GDP growth of 0.8% in 2025, with risks skewed to the upside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Financial conditions have remained broadly stable since our last assessment. Equity markets have declined, while corporate bond spreads have remained stable. Overall, financial conditions remain restrictive for the current stage of the cycle.","https://example.com/boe/20210222-117","economic_growth"
+"2021-03-10","Monetary policy in the current environment","Committee","fed","minutes","The Committee voted to increase the Bank Rate at 3.4%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The Committee voted to maintain the Bank Rate at 3.9%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+Wage growth has accelerated to 5.2% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/fed/20210310-118","interest_rate_policy"
+"2021-04-02","Financial stability and resilience","Christine Lagarde","ecb","speech","Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Financial conditions have fallen since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have widened. Overall, financial conditions remain neutral for the current stage of the cycle.
+
+Geopolitical risks have intensified since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 1.2% on a trade-weighted basis.","https://example.com/ecb/20210402-119","financial_stability"
+"2021-04-21","The path of interest rates","Silvana Tenreyro","boe","speech","The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have begun to ease, and credit conditions have shown tentative loosening. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The Committee voted to increase the Bank Rate at 4.7%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The Committee voted to reduce the Bank Rate at 6.1%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The economy grew by 2.8% in the latest quarter, slightly below market expectations. Business investment has remained subdued, supported by infrastructure investment. The services sector continues to show resilience, while manufacturing output has contracted.","https://example.com/boe/20210421-120","interest_rate_policy"
+"2021-05-10","The stability of the financial system","Committee","fed","minutes","Financial conditions have remained broadly stable since our last assessment. Equity markets have declined, while corporate bond spreads have widened. Overall, financial conditions remain restrictive for the current stage of the cycle.
+
+The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 14.2%, well above regulatory minima. Credit growth has remained tight to 3.2%, reflecting both supply and demand factors.
+
+Financial conditions have moderated since our last assessment. Equity markets have risen, while corporate bond spreads have remained stable. Overall, financial conditions remain neutral for the current stage of the cycle.
+
+Wage growth has accelerated to 5.5% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/fed/20210510-121","financial_stability"
+"2021-05-24","Setting policy in uncertain times","Philip Lane","ecb","speech","The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have begun to ease, and credit conditions have shown tentative loosening. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The Committee voted to maintain the Bank Rate at 4.7%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/ecb/20210524-122","interest_rate_policy"
+"2021-06-13","Setting policy in uncertain times","Andrew Bailey","boe","speech","The transmission of our previous rate adjustments to the real economy is still working through. Mortgage rates have risen further, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The Committee voted to reduce the Bank Rate at 2.1%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of continued adjustment.","https://example.com/boe/20210613-123","interest_rate_policy"
+"2021-07-07","Monetary policy in the current environment","Committee","fed","minutes","The transmission of our previous rate adjustments to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have remained tight. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The transmission of our previous rate adjustments to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has remained tight to 1.8%, reflecting both supply and demand factors.","https://example.com/fed/20210707-124","interest_rate_policy"
+"2021-07-20","The international economic outlook","Frank Elderson","ecb","speech","Commodity prices, particularly agricultural commodities, have remained volatile. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Geopolitical risks have intensified since our previous assessment. Tensions in the Middle East continue to affect energy markets. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 2.5% on a trade-weighted basis.","https://example.com/ecb/20210720-125","global_risks"
+"2021-08-14","The changing nature of work","Silvana Tenreyro","boe","speech","Labour force participation has stabilised, partly reflecting increased economic inactivity among older workers. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Wage growth has moderated to 4.8% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+The labour market remains uncertain, with the unemployment rate at 3.4%. Employment has declined by 50k over the quarter. Vacancies have continued to fall but remain elevated by historical standards.
+
+Financial conditions have risen since our last assessment. Equity markets have risen, while corporate bond spreads have narrowed. Overall, financial conditions remain accommodative for the current stage of the cycle.","https://example.com/boe/20210814-126","labour_market"
+"2021-08-29","Navigating global uncertainty","Lael Brainard","fed","speech","Commodity prices, particularly natural gas, have fallen. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Commodity prices, particularly agricultural commodities, have remained volatile. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/fed/20210829-127","global_risks"
+"2021-09-19","Price stability in a changing world","Fabio Panetta","ecb","speech","Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Inflation has moderated over the past quarter, with headline CPI falling to 2.1%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.","https://example.com/ecb/20210919-128","inflation_outlook"
+"2021-10-07","Price stability in a changing world","Committee","boe","minutes","Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by mid-2026. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.
+
+Financial conditions have risen since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have widened. Overall, financial conditions remain accommodative for the current stage of the cycle.","https://example.com/boe/20211007-129","inflation_outlook"
+"2021-10-24","Macroprudential policy and financial conditions","Michelle Bowman","fed","speech","Financial conditions have moderated since our last assessment. Equity markets have declined, while corporate bond spreads have widened. Overall, financial conditions remain accommodative for the current stage of the cycle.
+
+Risks from non-bank financial institutions warrant continued monitoring. Liquidity mismatches in open-ended funds require attention. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/fed/20211024-130","financial_stability"
+"2021-11-13","Monetary policy in the current environment","Frank Elderson","ecb","speech","Looking at the path of interest rates, market pricing suggests expectations of a gradual easing over the coming year. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+The Committee voted to increase the Bank Rate at 3.4%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.","https://example.com/ecb/20211113-131","interest_rate_policy"
+"2021-12-05","The international economic outlook","Committee","boe","minutes","Commodity prices, particularly agricultural commodities, have risen sharply. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The global economic environment remains tight. Growth in major trading partners has remained resilient, with divergent paths across regions. The United States continues to grow above trend, while Latin America faces commodity headwinds.
+
+Commodity prices, particularly agricultural commodities, have fallen. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The Committee voted to reduce the Bank Rate at 4.7%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.","https://example.com/boe/20211205-132","global_risks"
+"2021-12-25","Macroprudential policy and financial conditions","Lael Brainard","fed","speech","Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Risks from non-bank financial institutions warrant continued monitoring. Liquidity mismatches in open-ended funds require attention. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Financial conditions have remained broadly stable since our last assessment. Equity markets have risen, while corporate bond spreads have remained stable. Overall, financial conditions remain accommodative for the current stage of the cycle.
+
+The Committee voted to increase the Bank Rate at 3.4%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.","https://example.com/fed/20211225-133","financial_stability"
+"2022-01-11","The international economic outlook","Piero Cipollone","ecb","speech","The global economic environment remains tight. Growth in major trading partners has slowed, with divergent paths across regions. China continues to face headwinds, while Latin America faces fiscal consolidation needs.
+
+The global economic environment remains gradually loosening. Growth in major trading partners has slowed, with divergent paths across regions. The United States continues to face headwinds, while Latin America faces commodity headwinds.
+
+Commodity prices, particularly agricultural commodities, have fallen. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The economy grew by 2.1% in the latest quarter, slightly above market expectations. Business investment has recovered, supported by improved business sentiment. The services sector continues to moderate, while manufacturing output has shown tentative signs of recovery.","https://example.com/ecb/20220111-134","global_risks"
+"2022-01-29","Growth prospects and structural change","Huw Pill","boe","speech","Our central projection is for GDP growth of 1.2% in 2025, with risks skewed to the upside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has improved in recent months. The housing market shows signs of gradual recovery.
+
+Household consumption remains subdued, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of stabilisation.
+
+Inflation has fallen over the past quarter, with headline CPI edging down to 4.7%. Core inflation, which strips out volatile food and energy prices, has shown signs of easing. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/boe/20220129-135","economic_growth"
+"2022-02-21","Navigating the economic cycle","Michelle Bowman","fed","speech","Our central projection is for GDP growth of 1.2% in 2025, with risks skewed to the downside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+The economy grew by 4.7% in the latest quarter, broadly in line with market expectations. Business investment has remained subdued, supported by public sector spending. The services sector continues to moderate, while manufacturing output has stabilised.
+
+Household consumption remains subdued, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of gradual recovery.","https://example.com/fed/20220221-136","economic_growth"
+"2022-03-10","Growth prospects and structural change","Frank Elderson","ecb","speech","Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of gradual recovery.
+
+Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of continued adjustment.
+
+Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has improved in recent months. The housing market shows signs of gradual recovery.","https://example.com/ecb/20220310-137","economic_growth"
+"2022-03-29","Growth prospects and structural change","Committee","boe","minutes","Our central projection is for GDP growth of 1.0% in 2025, with risks skewed to the downside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+The economy grew by 5.2% in the latest quarter, slightly above market expectations. Business investment has recovered, supported by improved business sentiment. The services sector continues to show resilience, while manufacturing output has shown tentative signs of recovery.","https://example.com/boe/20220329-138","economic_growth"
+"2022-04-19","Setting policy in uncertain times","Lael Brainard","fed","speech","The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have shown tentative loosening. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The transmission of our previous rate adjustments to the real economy is still working through. Mortgage rates have begun to ease, and credit conditions have shown tentative loosening. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/fed/20220419-139","interest_rate_policy"
+"2022-05-07","The international economic outlook","Christine Lagarde","ecb","speech","Commodity prices, particularly agricultural commodities, have fallen. This reflects weakening global demand. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Commodity prices, particularly agricultural commodities, have risen sharply. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/ecb/20220507-140","global_risks"
+"2022-05-24","Price stability in a changing world","Huw Pill","boe","speech","Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by mid-2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect further easing in the coming months.
+
+Our central projection is for GDP growth of 1.2% in 2025, with risks skewed to the downside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.","https://example.com/boe/20220524-141","inflation_outlook"
+"2022-06-13","The changing nature of work","Jerome Powell","fed","speech","Wage growth has remained elevated to 4.8% in annual terms. Private sector regular pay growth of 6.3% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+The labour market remains uncertain, with the unemployment rate at 4.7%. Employment has remained broadly flat by 50k over the quarter. Vacancies have stabilised but remain near historical norms by historical standards.","https://example.com/fed/20220613-142","labour_market"
+"2022-07-01","Inflation dynamics and the path ahead","Fabio Panetta","ecb","speech","Inflation has remained broadly stable over the past quarter, with headline CPI rising to 2.8%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains sticky. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.","https://example.com/ecb/20220701-143","inflation_outlook"
+"2022-07-20","Setting policy in uncertain times","Huw Pill","boe","speech","Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+The Committee voted to increase the Bank Rate at 6.1%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have begun to ease, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+Inflation has remained broadly stable over the past quarter, with headline CPI rising to 6.1%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/boe/20220720-144","interest_rate_policy"
+"2022-08-12","Navigating the economic cycle","Lael Brainard","fed","speech","Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of continued adjustment.
+
+Our central projection is for GDP growth of 1.4% in 2026, with risks skewed to the downside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Inflation has remained broadly stable over the past quarter, with headline CPI edging up to 3.9%. Core inflation, which strips out volatile food and energy prices, has shown signs of easing. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/fed/20220812-145","economic_growth"
+"2022-08-31","The stability of the financial system","Philip Lane","ecb","speech","Financial conditions have fallen since our last assessment. Equity markets have declined, while corporate bond spreads have widened. Overall, financial conditions remain accommodative for the current stage of the cycle.
+
+The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 14.2%, well above regulatory minima. Credit growth has shown tentative loosening to 1.8%, reflecting both supply and demand factors.","https://example.com/ecb/20220831-146","financial_stability"
+"2022-09-19","Financial stability and resilience","Silvana Tenreyro","boe","speech","The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 13.8%, well above regulatory minima. Credit growth has shown tentative loosening to 3.2%, reflecting both supply and demand factors.
+
+Financial conditions have fallen since our last assessment. Equity markets have declined, while corporate bond spreads have narrowed. Overall, financial conditions remain accommodative for the current stage of the cycle.
+
+Financial conditions have remained broadly stable since our last assessment. Equity markets have declined, while corporate bond spreads have remained stable. Overall, financial conditions remain accommodative for the current stage of the cycle.
+
+The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.","https://example.com/boe/20220919-147","financial_stability"
+"2022-10-06","The changing nature of work","Committee","fed","minutes","Wage growth has moderated to 5.2% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+The labour market remains gradually loosening, with the unemployment rate at 4.7%. Employment has increased by 150k over the quarter. Vacancies have declined but remain near historical norms by historical standards.
+
+Wage growth has moderated to 7.0% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+Risks from non-bank financial institutions warrant continued monitoring. Liquidity mismatches in open-ended funds require attention. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.","https://example.com/fed/20221006-148","labour_market"
+"2022-10-28","The stability of the financial system","Frank Elderson","ecb","speech","The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 14.2%, well above regulatory minima. Credit growth has shown tentative loosening to 1.8%, reflecting both supply and demand factors.
+
+Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Geopolitical risks have intensified since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has remained broadly stable by 2.5% on a trade-weighted basis.","https://example.com/ecb/20221028-149","financial_stability"
+"2022-11-15","The economic outlook","Committee","boe","minutes","The economy grew by 3.9% in the latest quarter, broadly in line with market expectations. Business investment has picked up modestly, supported by infrastructure investment. The services sector continues to moderate, while manufacturing output has shown tentative signs of recovery.
+
+Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of continued adjustment.
+
+Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of stabilisation.","https://example.com/boe/20221115-150","economic_growth"
+"2022-12-03","Macroprudential policy and financial conditions","Lael Brainard","fed","speech","Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has remained tight to 3.2%, reflecting both supply and demand factors.
+
+The banking sector continues to exhibit strong capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 13.8%, well above regulatory minima. Credit growth has tightened to 2.5%, reflecting both supply and demand factors.
+
+Geopolitical risks have intensified since our previous assessment. Trade policy uncertainty has risen following recent tariff announcements. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has remained broadly stable by 2.5% on a trade-weighted basis.","https://example.com/fed/20221203-151","financial_stability"
+"2022-12-24","The path of interest rates","Philip Lane","ecb","speech","The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have begun to ease, and credit conditions have shown tentative loosening. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The transmission of our previous rate adjustments to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have remained tight. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The Committee voted to reduce the Bank Rate at 3.9%. This decision reflects our assessment that the current monetary policy stance is appropriately restrictive. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.","https://example.com/ecb/20221224-152","interest_rate_policy"
+"2023-01-11","Navigating global uncertainty","Silvana Tenreyro","boe","speech","Geopolitical risks have evolved since our previous assessment. Tensions in the Middle East continue to affect energy markets. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has remained broadly stable by 1.2% on a trade-weighted basis.
+
+Commodity prices, particularly natural gas, have remained volatile. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The global economic environment remains uncertain. Growth in major trading partners has slowed, with divergent paths across regions. China continues to grow above trend, while Latin America faces fiscal consolidation needs.
+
+Wage growth has remained elevated to 4.8% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/boe/20230111-153","global_risks"
+"2023-01-29","The economic outlook","Committee","fed","minutes","Our central projection is for GDP growth of 0.8% in 2025, with risks skewed to the upside. Potential output growth is estimated at around 1.0%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Household consumption remains subdued, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has improved in recent months. The housing market shows signs of gradual recovery.","https://example.com/fed/20230129-154","economic_growth"
+"2023-02-16","Global risks and domestic implications","Piero Cipollone","ecb","speech","The global economic environment remains resilient. Growth in major trading partners has remained resilient, with divergent paths across regions. The United States continues to face headwinds, while sub-Saharan Africa faces commodity headwinds.
+
+The global economic environment remains tight. Growth in major trading partners has remained resilient, with divergent paths across regions. The euro area continues to face headwinds, while sub-Saharan Africa faces commodity headwinds.
+
+The global economic environment remains uncertain. Growth in major trading partners has diverged, with divergent paths across regions. The United States continues to recover gradually, while emerging Asia faces capital outflow pressures.","https://example.com/ecb/20230216-155","global_risks"
+"2023-03-07","Monetary policy in the current environment","Huw Pill","boe","speech","The Committee voted to reduce the Bank Rate at 4.7%. This decision reflects our assessment that the current monetary policy stance is appropriately restrictive. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+Inflation has moderated over the past quarter, with headline CPI rising to 2.8%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/boe/20230307-156","interest_rate_policy"
+"2023-03-29","Growth prospects and structural change","Christopher Waller","fed","speech","Our central projection is for GDP growth of 1.0% in 2025, with risks skewed to the upside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+Our central projection is for GDP growth of 1.0% in 2026, with risks skewed to the downside. Potential output growth is estimated at around 1.5%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.
+
+The Committee voted to reduce the Bank Rate at 2.8%. This decision reflects our assessment that the current monetary policy stance is appropriately restrictive. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.","https://example.com/fed/20230329-157","economic_growth"
+"2023-04-17","Monetary policy in the current environment","Committee","ecb","minutes","The Committee voted to reduce the Bank Rate at 2.8%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The transmission of our previous rate adjustments to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.","https://example.com/ecb/20230417-158","interest_rate_policy"
+"2023-05-03","Monetary policy in the current environment","Sarah Breeden","boe","speech","The Committee voted to reduce the Bank Rate at 6.1%. This decision reflects our assessment that the current monetary policy stance is balanced. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The Committee voted to reduce the Bank Rate at 5.2%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+Looking at the path of interest rates, market pricing suggests expectations of a gradual easing over the coming year. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/boe/20230503-159","interest_rate_policy"
+"2023-05-28","Inflation dynamics and the path ahead","Committee","fed","minutes","Inflation has risen over the past quarter, with headline CPI edging up to 4.7%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains sticky. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.
+
+Commodity prices, particularly agricultural commodities, have risen sharply. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/fed/20230528-160","inflation_outlook"
+"2023-06-10","Inflation dynamics and the path ahead","Christine Lagarde","ecb","speech","Inflation has moderated over the past quarter, with headline CPI edging up to 2.8%. Core inflation, which strips out volatile food and energy prices, has edged higher. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Our projections indicate that inflation will remain elevated before easing over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Inflation has fallen over the past quarter, with headline CPI edging up to 2.1%. Core inflation, which strips out volatile food and energy prices, has shown signs of easing. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/ecb/20230610-161","inflation_outlook"
+"2023-07-05","Monetary policy in the current environment","Silvana Tenreyro","boe","speech","Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+The Committee voted to increase the Bank Rate at 2.8%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+Commodity prices, particularly oil, have risen sharply. This reflects weakening global demand. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/boe/20230705-162","interest_rate_policy"
+"2023-07-18","The changing nature of work","Michelle Bowman","fed","speech","The labour market remains tight, with the unemployment rate at 2.8%. Employment has increased by 50k over the quarter. Vacancies have declined but remain above pre-pandemic levels by historical standards.
+
+Wage growth has accelerated to 5.5% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.","https://example.com/fed/20230718-163","labour_market"
+"2023-08-08","The inflation outlook: challenges and opportunities","Isabel Schnabel","ecb","speech","Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.
+
+Inflation has moderated over the past quarter, with headline CPI falling to 4.7%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Wage growth has moderated to 5.5% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/ecb/20230808-164","inflation_outlook"
+"2023-08-31","The international economic outlook","Andrew Bailey","boe","speech","The global economic environment remains tight. Growth in major trading partners has remained resilient, with divergent paths across regions. China continues to face headwinds, while emerging Asia faces capital outflow pressures.
+
+The global economic environment remains uncertain. Growth in major trading partners has slowed, with divergent paths across regions. China continues to grow above trend, while Latin America faces commodity headwinds.","https://example.com/boe/20230831-165","global_risks"
+"2023-09-15","Financial stability and resilience","Christopher Waller","fed","speech","Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Financial conditions have fallen since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have widened. Overall, financial conditions remain neutral for the current stage of the cycle.
+
+Financial conditions have moderated since our last assessment. Equity markets have declined, while corporate bond spreads have narrowed. Overall, financial conditions remain neutral for the current stage of the cycle.","https://example.com/fed/20230915-166","financial_stability"
+"2023-10-09","The inflation outlook: challenges and opportunities","Committee","ecb","minutes","Our projections indicate that inflation will remain elevated before easing over the medium term, converging towards our 2% target by mid-2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Our projections indicate that inflation will remain elevated before easing over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Inflation has risen over the past quarter, with headline CPI edging down to 2.1%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/ecb/20231009-167","inflation_outlook"
+"2023-10-27","Navigating the economic cycle","Sarah Breeden","boe","speech","The economy grew by 3.4% in the latest quarter, slightly below market expectations. Business investment has picked up modestly, supported by public sector spending. The services sector continues to show resilience, while manufacturing output has contracted.
+
+The economy grew by 2.8% in the latest quarter, slightly above market expectations. Business investment has picked up modestly, supported by improved business sentiment. The services sector continues to expand steadily, while manufacturing output has shown tentative signs of recovery.
+
+Wage growth has accelerated to 4.8% in annual terms. Private sector regular pay growth of 6.3% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/boe/20231027-168","economic_growth"
+"2023-11-13","Macroprudential policy and financial conditions","Jerome Powell","fed","speech","Risks from non-bank financial institutions warrant continued monitoring. Growth in private credit markets warrants close monitoring. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Financial conditions have moderated since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have widened. Overall, financial conditions remain accommodative for the current stage of the cycle.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains sticky. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.","https://example.com/fed/20231113-169","financial_stability"
+"2023-12-04","The economic outlook","Piero Cipollone","ecb","speech","The economy grew by 3.4% in the latest quarter, broadly in line with market expectations. Business investment has recovered, supported by improved business sentiment. The services sector continues to expand steadily, while manufacturing output has contracted.
+
+The economy grew by 5.2% in the latest quarter, slightly above market expectations. Business investment has remained subdued, supported by public sector spending. The services sector continues to expand steadily, while manufacturing output has shown tentative signs of recovery.
+
+Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of gradual recovery.
+
+The transmission of our previous rate adjustments to the real economy is still working through. Mortgage rates have risen further, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.","https://example.com/ecb/20231204-170","economic_growth"
+"2023-12-19","Navigating global uncertainty","Dave Ramsden","boe","speech","The global economic environment remains tight. Growth in major trading partners has diverged, with divergent paths across regions. The United States continues to face headwinds, while Latin America faces commodity headwinds.
+
+The global economic environment remains resilient. Growth in major trading partners has remained resilient, with divergent paths across regions. The United States continues to grow above trend, while Latin America faces fiscal consolidation needs.","https://example.com/boe/20231219-171","global_risks"
+"2024-01-10","Inflation dynamics and the path ahead","Lisa Cook","fed","speech","Inflation has risen over the past quarter, with headline CPI rising to 3.9%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Inflation has fallen over the past quarter, with headline CPI edging down to 4.7%. Core inflation, which strips out volatile food and energy prices, has edged higher. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.","https://example.com/fed/20240110-172","inflation_outlook"
+"2024-01-29","The path of interest rates","Christine Lagarde","ecb","speech","The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have risen further, and credit conditions have remained tight. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The Committee voted to maintain the Bank Rate at 6.1%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/ecb/20240129-173","interest_rate_policy"
+"2024-02-18","Navigating global uncertainty","Committee","boe","minutes","The global economic environment remains gradually loosening. Growth in major trading partners has remained resilient, with divergent paths across regions. China continues to face headwinds, while emerging Asia faces capital outflow pressures.
+
+Commodity prices, particularly agricultural commodities, have remained volatile. This reflects weakening global demand. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Commodity prices, particularly natural gas, have fallen. This reflects seasonal factors. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/boe/20240218-174","global_risks"
+"2024-03-07","Price stability in a changing world","Michelle Bowman","fed","speech","The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have stabilised, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect further easing in the coming months.
+
+Inflation has risen over the past quarter, with headline CPI edging down to 3.9%. Core inflation, which strips out volatile food and energy prices, has edged higher. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.
+
+Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of gradual recovery.","https://example.com/fed/20240307-175","inflation_outlook"
+"2024-03-28","The inflation outlook: challenges and opportunities","Isabel Schnabel","ecb","speech","The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have stabilised, services inflation remains sticky. The pass-through from producer prices to consumer prices continues to evolve, and we expect further easing in the coming months.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains elevated. The pass-through from producer prices to consumer prices continues to evolve, and we expect gradual disinflation in the coming months.
+
+Inflation has fallen over the past quarter, with headline CPI falling to 4.7%. Core inflation, which strips out volatile food and energy prices, has edged higher. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/ecb/20240328-176","inflation_outlook"
+"2024-04-14","The stability of the financial system","Andrew Bailey","boe","speech","Financial conditions have fallen since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have narrowed. Overall, financial conditions remain restrictive for the current stage of the cycle.
+
+Risks from non-bank financial institutions warrant continued monitoring. Liquidity mismatches in open-ended funds require attention. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Looking at the path of interest rates, market pricing suggests expectations of one further increase followed by a pause. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.","https://example.com/boe/20240414-177","financial_stability"
+"2024-05-05","Macroprudential policy and financial conditions","Philip Jefferson","fed","speech","The banking sector continues to exhibit robust capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has tightened to 2.5%, reflecting both supply and demand factors.
+
+Financial conditions have fallen since our last assessment. Equity markets have remained range-bound, while corporate bond spreads have widened. Overall, financial conditions remain accommodative for the current stage of the cycle.
+
+Commodity prices, particularly natural gas, have risen sharply. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/fed/20240505-178","financial_stability"
+"2024-05-26","Growth prospects and structural change","Philip Lane","ecb","speech","The economy grew by 3.4% in the latest quarter, slightly below market expectations. Business investment has recovered, supported by improved business sentiment. The services sector continues to expand steadily, while manufacturing output has shown tentative signs of recovery.
+
+Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of continued adjustment.
+
+Our projections indicate that inflation will remain elevated before easing over the medium term, converging towards our 2% target by mid-2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.","https://example.com/ecb/20240526-179","economic_growth"
+"2024-06-08","Global risks and domestic implications","Ben Broadbent","boe","speech","The global economic environment remains resilient. Growth in major trading partners has slowed, with divergent paths across regions. The euro area continues to recover gradually, while emerging Asia faces fiscal consolidation needs.
+
+Geopolitical risks have evolved since our previous assessment. The conflict in Eastern Europe continues to weigh on European growth. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 2.5% on a trade-weighted basis.
+
+The global economic environment remains tight. Growth in major trading partners has diverged, with divergent paths across regions. The euro area continues to face headwinds, while sub-Saharan Africa faces capital outflow pressures.
+
+The economy grew by 6.1% in the latest quarter, slightly above market expectations. Business investment has recovered, supported by improved business sentiment. The services sector continues to moderate, while manufacturing output has shown tentative signs of recovery.","https://example.com/boe/20240608-180","global_risks"
+"2024-07-02","The economic outlook","Michelle Bowman","fed","speech","Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of stabilisation.
+
+Our central projection is for GDP growth of 1.4% in 2026, with risks skewed to the upside. Potential output growth is estimated at around 1.2%, reflecting structural factors including demographics, capital deepening, and total factor productivity trends.","https://example.com/fed/20240702-181","economic_growth"
+"2024-07-22","Navigating the economic cycle","Philip Lane","ecb","speech","The economy grew by 5.2% in the latest quarter, slightly above market expectations. Business investment has recovered, supported by public sector spending. The services sector continues to expand steadily, while manufacturing output has stabilised.
+
+Household consumption remains subdued, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of continued adjustment.
+
+Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of continued adjustment.","https://example.com/ecb/20240722-182","economic_growth"
+"2024-08-05","Setting policy in uncertain times","Dave Ramsden","boe","speech","The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have stabilised, and credit conditions have remained tight. The full impact of cumulative tightening is expected to materialise over the coming quarters.
+
+The Committee voted to maintain the Bank Rate at 4.7%. This decision reflects our assessment that the current monetary policy stance is appropriately restrictive. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+The transmission of our previous rate increases to the real economy is still working through. Mortgage rates have begun to ease, and credit conditions have tightened. The full impact of cumulative tightening is expected to materialise over the coming quarters.","https://example.com/boe/20240805-183","interest_rate_policy"
+"2024-08-29","Financial stability and resilience","Jerome Powell","fed","speech","Risks from non-bank financial institutions warrant continued monitoring. Leverage in certain hedge fund strategies remains elevated. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Risks from non-bank financial institutions warrant continued monitoring. Liquidity mismatches in open-ended funds require attention. Our macroprudential framework provides tools to address emerging vulnerabilities, and we stand ready to adjust countercyclical buffers if conditions warrant.
+
+Financial conditions have risen since our last assessment. Equity markets have risen, while corporate bond spreads have narrowed. Overall, financial conditions remain accommodative for the current stage of the cycle.","https://example.com/fed/20240829-184","financial_stability"
+"2024-09-16","Navigating global uncertainty","Fabio Panetta","ecb","speech","The global economic environment remains tight. Growth in major trading partners has remained resilient, with divergent paths across regions. The euro area continues to recover gradually, while Latin America faces capital outflow pressures.
+
+The global economic environment remains resilient. Growth in major trading partners has slowed, with divergent paths across regions. China continues to grow above trend, while Latin America faces commodity headwinds.
+
+Commodity prices, particularly agricultural commodities, have fallen. This reflects weakening global demand. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+The Committee voted to maintain the Bank Rate at 3.4%. This decision reflects our assessment that the current monetary policy stance is appropriately restrictive. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.","https://example.com/ecb/20240916-185","global_risks"
+"2024-10-07","Labour market dynamics and wages","Sarah Breeden","boe","speech","Wage growth has remained elevated to 4.8% in annual terms. Private sector regular pay growth of 5.5% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.
+
+Labour force participation has stabilised, partly reflecting early retirement trends. Skills shortages persist in healthcare and technology, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+The banking sector continues to exhibit adequate capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 15.1%, well above regulatory minima. Credit growth has tightened to 1.8%, reflecting both supply and demand factors.","https://example.com/boe/20241007-186","labour_market"
+"2024-10-22","Labour market dynamics and wages","Committee","fed","minutes","Labour force participation has recovered, partly reflecting long-term sickness. Skills shortages persist in hospitality and logistics, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Labour force participation has recovered, partly reflecting long-term sickness. Skills shortages persist in hospitality and logistics, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Wage growth has accelerated to 7.0% in annual terms. Private sector regular pay growth of 4.9% continues to exceed rates consistent with the inflation target, given current productivity trends. We are monitoring closely for signs of a wage-price spiral.","https://example.com/fed/20241022-187","labour_market"
+"2024-11-15","Labour market dynamics and wages","Frank Elderson","ecb","speech","The labour market remains uncertain, with the unemployment rate at 4.7%. Employment has increased by 75k over the quarter. Vacancies have continued to fall but remain elevated by historical standards.
+
+Labour force participation has stabilised, partly reflecting increased economic inactivity among older workers. Skills shortages persist in hospitality and logistics, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Labour force participation has stabilised, partly reflecting long-term sickness. Skills shortages persist in healthcare and technology, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Geopolitical risks have intensified since our previous assessment. Tensions in the Middle East continue to affect energy markets. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has appreciated by 2.5% on a trade-weighted basis.","https://example.com/ecb/20241115-188","labour_market"
+"2024-12-03","The inflation outlook: challenges and opportunities","Committee","boe","minutes","Our projections indicate that inflation will remain elevated before easing over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+Inflation has moderated over the past quarter, with headline CPI edging down to 6.1%. Core inflation, which strips out volatile food and energy prices, has shown signs of easing. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains sticky. The pass-through from producer prices to consumer prices continues to evolve, and we expect gradual disinflation in the coming months.","https://example.com/boe/20241203-189","inflation_outlook"
+"2024-12-19","The inflation outlook: challenges and opportunities","Committee","fed","minutes","Our projections indicate that inflation will converge over the medium term, converging towards our 2% target by late 2025. However, risks to this forecast are tilted to the upside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have remained volatile, services inflation remains sticky. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.
+
+The persistence of inflationary pressures reflects a combination of supply-side constraints and robust domestic demand. While energy prices have declined further, services inflation remains above target-consistent levels. The pass-through from producer prices to consumer prices continues to evolve, and we expect continued moderation in the coming months.","https://example.com/fed/20241219-190","inflation_outlook"
+"2025-01-05","Price stability in a changing world","Committee","ecb","minutes","Inflation has moderated over the past quarter, with headline CPI rising to 5.2%. Core inflation, which strips out volatile food and energy prices, has shown signs of easing. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.
+
+Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.
+
+The banking sector continues to exhibit adequate capital and liquidity positions. Aggregate Common Equity Tier 1 ratios stand at 14.2%, well above regulatory minima. Credit growth has remained tight to 1.8%, reflecting both supply and demand factors.","https://example.com/ecb/20250105-191","inflation_outlook"
+"2025-01-26","Global risks and domestic implications","Committee","boe","minutes","Geopolitical risks have evolved since our previous assessment. Trade policy uncertainty has risen following recent tariff announcements. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 0.8% on a trade-weighted basis.
+
+Commodity prices, particularly natural gas, have remained volatile. This reflects supply disruptions. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/boe/20250126-192","global_risks"
+"2025-02-15","Employment, wages, and inflation","Michelle Bowman","fed","speech","Labour force participation has recovered, partly reflecting long-term sickness. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Labour force participation has stabilised, partly reflecting early retirement trends. Skills shortages persist in healthcare and technology, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Labour force participation has stabilised, partly reflecting long-term sickness. Skills shortages persist in healthcare and technology, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Inflation has fallen over the past quarter, with headline CPI rising to 3.4%. Core inflation, which strips out volatile food and energy prices, has remained sticky. We continue to monitor inflation expectations closely, as their anchoring is critical for the credibility of our monetary policy framework.","https://example.com/fed/20250215-193","labour_market"
+"2025-03-05","The international economic outlook","Christine Lagarde","ecb","speech","Geopolitical risks have evolved since our previous assessment. Trade policy uncertainty has risen following recent tariff announcements. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has remained broadly stable by 1.2% on a trade-weighted basis.
+
+Commodity prices, particularly oil, have risen sharply. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of stabilisation.","https://example.com/ecb/20250305-194","global_risks"
+"2025-03-26","Navigating the economic cycle","Silvana Tenreyro","boe","speech","Household consumption remains resilient, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has deteriorated in recent months. The housing market shows signs of stabilisation.
+
+The economy grew by 3.9% in the latest quarter, slightly below market expectations. Business investment has picked up modestly, supported by improved business sentiment. The services sector continues to moderate, while manufacturing output has contracted.
+
+Our projections indicate that inflation will decline gradually over the medium term, converging towards our 2% target by the end of 2026. However, risks to this forecast are tilted to the downside, reflecting uncertainty around global commodity markets and domestic wage dynamics.","https://example.com/boe/20250326-195","economic_growth"
+"2025-04-11","Employment, wages, and inflation","Jerome Powell","fed","speech","The labour market remains gradually loosening, with the unemployment rate at 4.7%. Employment has declined by 150k over the quarter. Vacancies have continued to fall but remain near historical norms by historical standards.
+
+Labour force participation has remained below pre-pandemic levels, partly reflecting early retirement trends. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.","https://example.com/fed/20250411-196","labour_market"
+"2025-05-05","The path of interest rates","Fabio Panetta","ecb","speech","Looking at the path of interest rates, market pricing suggests expectations of rates remaining at current levels for an extended period. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+Looking at the path of interest rates, market pricing suggests expectations of a gradual easing over the coming year. Our forward guidance remains data-dependent: we will assess the evolving outlook at each meeting and adjust the policy stance as warranted by incoming information on inflation and economic activity.
+
+The Committee voted to reduce the Bank Rate at 2.8%. This decision reflects our assessment that the current monetary policy stance is sufficiently tight. We will continue to set policy to ensure inflation returns sustainably to target, while being mindful of the impact on economic activity and employment.
+
+Commodity prices, particularly agricultural commodities, have remained volatile. This reflects geopolitical risk premia. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.","https://example.com/ecb/20250505-197","interest_rate_policy"
+"2025-05-24","The changing nature of work","Dave Ramsden","boe","speech","Labour force participation has remained below pre-pandemic levels, partly reflecting early retirement trends. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+Labour force participation has stabilised, partly reflecting increased economic inactivity among older workers. Skills shortages persist in construction and engineering, contributing to wage pressures in these areas. The balance of demand and supply in the labour market remains a key determinant of the inflation outlook.
+
+The economy grew by 3.4% in the latest quarter, slightly below market expectations. Business investment has picked up modestly, supported by improved business sentiment. The services sector continues to moderate, while manufacturing output has stabilised.","https://example.com/boe/20250524-198","labour_market"
+"2025-06-09","Navigating global uncertainty","Christopher Waller","fed","speech","Geopolitical risks have remained elevated since our previous assessment. Trade policy uncertainty has risen following recent tariff announcements. These developments pose risks to global supply chains, energy markets, and trade flows. The exchange rate has depreciated by 1.2% on a trade-weighted basis.
+
+Commodity prices, particularly agricultural commodities, have remained volatile. This reflects weakening global demand. The impact on domestic inflation will depend on the persistence of these price movements and the degree of pass-through to consumer prices.
+
+Household consumption remains mixed, reflecting the balance between real income growth and the drag from higher borrowing costs. Consumer confidence has remained flat in recent months. The housing market shows signs of stabilisation.","https://example.com/fed/20250609-199","global_risks"
