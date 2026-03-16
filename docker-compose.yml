@@ -1,0 +1,23 @@
+# =============================================================================
+# NLP Financial Signals Pipeline — Docker Compose
+# =============================================================================
+#
+# Usage:
+#   docker compose up                            # Run with sample data
+#   docker compose run signals --mode full       # Full pipeline (needs web access)
+#
+# Outputs are persisted to local directories via volume mounts.
+
+services:
+  signals:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nlp-financial-signals
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./outputs:/app/outputs
+    environment:
+      - PYTHONPATH=/app
+    command: ["--mode", "sample"]
