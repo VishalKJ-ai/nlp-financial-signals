@@ -185,6 +185,8 @@ class TestMergeAndPersistence:
         self, config: dict, sample_speeches_df: pd.DataFrame
     ) -> None:
         """Saving and loading should preserve the data."""
+        pytest.importorskip("pyarrow")
+
         preprocessor = TextPreprocessor(config)
         processed = preprocessor.process(sample_speeches_df)
 
