@@ -223,14 +223,36 @@ class FinBERTScorer:
             import torch
             from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
-            self._tokenizer = AutoTokenizer.from_pretrained(self.model_name)
-            self._model = AutoModelForSequenceClassification.from_pretrained(
-                self.model_name
-            )
+            # yiyanghkust/finbert-tone predates the Auto* config format
+            # (no model_type key, vocab.txt-only tokenizer), so fall back
+            # to the explicit BERT classes when auto-detection fails.
+            try:
+                self._tokenizer = AutoTokenizer.from_pretrained(self.model_name)
+            except ValueError:
+                from transformers import BertTokenizerFast
+
+                self._tokenizer = BertTokenizerFast.from_pretrained(
+                    self.model_name
+                )
+            try:
+                self._model = AutoModelForSequenceClassification.from_pretrained(
+                    self.model_name
+                )
+            except ValueError:
+                from transformers import BertForSequenceClassification
+
+                self._model = BertForSequenceClassification.from_pretrained(
+                    self.model_name
+                )
 
             # Device selection
             if self.device == "auto":
-                self._device = "cuda" if torch.cuda.is_available() else "cpu"
+                if torch.cuda.is_available():
+                    self._device = "cuda"
+                elif torch.backends.mps.is_available():
+                    self._device = "mps"
+                else:
+                    self._device = "cpu"
             else:
                 self._device = self.device
 
@@ -273,11 +295,20 @@ class FinBERTScorer:
                 outputs = self._model(**encodings)
                 probs = torch.softmax(outputs.logits, dim=1).cpu().numpy()
 
-            # FinBERT label order: positive, negative, neutral
+            # Label order differs between FinBERT variants (ProsusAI:
+            # positive/negative/neutral; yiyanghkust/finbert-tone:
+            # Neutral/Positive/Negative), so map via the model config.
+            id2label = {
+                i: label.lower()
+                for i, label in self._model.config.id2label.items()
+            }
             for prob in probs:
-                positive, negative, neutral = float(prob[0]), float(prob[1]), float(prob[2])
+                by_label = {id2label[i]: float(p) for i, p in enumerate(prob)}
+                positive = by_label.get("positive", 0.0)
+                negative = by_label.get("negative", 0.0)
+                neutral = by_label.get("neutral", 0.0)
                 compound = positive - negative
-                label = ["positive", "negative", "neutral"][int(prob.argmax())]
+                label = id2label[int(prob.argmax())]
                 results.append({
                     "positive": positive,
                     "negative": negative,

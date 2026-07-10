@@ -42,6 +42,8 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+# LM dictionary: free for academic use but not redistributable
+data/external/
 
 # -- Trained models (large binary files) -------------------------------------
 models/*
@@ -64,3 +66,5 @@ pipeline.log
 # -- Environment variables ---------------------------------------------------
 .env
 .env.local
+# Regenerable intermediate artefacts (large)
+outputs/dissertation/*.parquet

@@ -1,8 +1,8 @@
 # NLP Financial Signals
 
-**Unsupervised NLP pipeline for extracting financial signals from central bank communications using BERTopic and FinBERT.**
+**Cluster-level sentiment signals from Federal Reserve press conference transcripts, using BERTopic and FinBERT.**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![CI](https://img.shields.io/badge/CI-GitHub%20Actions-orange)
 
@@ -12,239 +12,93 @@
 
 ## Motivation
 
-Central banks communicate monetary policy intent through speeches, minutes, and press conferences. These communications contain implicit signals about future policy direction — hawkish (tightening) or dovish (easing) — that precede formal rate decisions. However, the volume and complexity of this text makes manual analysis impractical.
+A single FOMC press conference can be hawkish about inflation and dovish about the labour market at the same time. The dominant approach in financial NLP — scoring sentiment for the whole document — averages those conflicting signals away. This project calls that problem **signal washout**, and resolves it by scoring sentiment at the *topic-cluster* level instead.
 
-This project builds an end-to-end pipeline that transforms unstructured central bank communications into structured financial signals by combining **unsupervised topic modelling** (BERTopic) with **domain-specific sentiment analysis** (FinBERT). The pipeline processes documents from three major central banks — the Bank of England, Federal Reserve, and European Central Bank — and produces a composite hawkish/dovish indicator that can be correlated with market movements.
+The pipeline discovers latent policy themes in Federal Reserve press conference transcripts with **BERTopic** (Sentence-BERT embeddings → UMAP → HDBSCAN → c-TF-IDF), then scores each theme with **FinBERT** (Yang et al., 2020, `yiyanghkust/finbert-tone`), producing a theme-level sentiment time series for every FOMC meeting since April 2011.
 
----
+## Corpus
 
-## Data Sources
+| Property | Value |
+|----------|-------|
+| Document type | FOMC post-meeting press conference transcripts |
+| Window | April 2011 (first Bernanke press conference) – present |
+| Meetings | 92 |
+| Analysis unit | Sentences from the Chair's Q&A answers (~22,500 sentences, ~467k words) |
+| Source | [federalreserve.gov](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm) (public domain), scraped with rate limiting |
 
-| Source | Document Types | Date Range | Collection Method |
-|--------|---------------|------------|-------------------|
-| **Bank of England** | Speeches, MPC minutes | 2015–2025 | Web scraping (BeautifulSoup) |
-| **Federal Reserve** | Speeches, FOMC minutes | 2015–2025 | Web scraping (BeautifulSoup) |
-| **European Central Bank** | Speeches, Policy accounts | 2015–2025 | Web scraping (BeautifulSoup) |
+Restricting to a single document register — the Chair's spontaneous answers — controls for the stylistic heterogeneity of Fed communications and isolates the authoritative policy voice.
 
-Sample data (200 synthetic documents) is bundled for offline testing.
+## Method
 
----
+1. **Collection & parsing** — download all transcript PDFs, segment into speaker turns, retain the Chair's Q&A answers (`src/data/fomc_presser_scraper.py`).
+2. **Preprocessing** — conservative disfluency removal (false starts, repeated words, leading fillers) and sentence segmentation; hedging is deliberately preserved because it carries policy signal (`src/data/presser_preprocessor.py`).
+3. **Topic discovery** — BERTopic with fixed seeds over MiniLM sentence embeddings (`src/dissertation_pipeline.py --stage topics`).
+4. **Sentiment scoring** — FinBERT-tone at sentence level, aggregated per meeting × topic (cluster-level) and per meeting (document-level baseline).
+5. **Triangulated evaluation**:
+   - **Arm 1 — internal coherence**: Cv coherence plus a structured hyperparameter grid over UMAP/HDBSCAN settings.
+   - **Arm 2 — benchmark**: correlation and directional agreement against the Loughran–McDonald dictionary (`src/evaluation/lm_baseline.py`).
+   - **Arm 3 — external validation**: cluster-level sentiment regressed against meeting-day changes in market-implied rate expectations (2-year Treasury yield / fed funds futures), compared against the document-level baseline (`src/evaluation/market_validation.py`).
+6. **Robustness** — seed-stability runs and hyperparameter sensitivity analysis.
 
-## Methodology
-
-### Topic Modelling (BERTopic)
-
-Documents are embedded using sentence-transformers (`all-MiniLM-L6-v2`), reduced via UMAP, and clustered with HDBSCAN. BERTopic discovers latent themes in central bank communications (e.g., inflation outlook, labour market, financial stability). Topic evolution over time reveals shifts in policy focus.
-
-### Sentiment Analysis (FinBERT)
-
-Each document and paragraph is scored using ProsusAI/finbert, producing positive, negative, and neutral probabilities. A compound score (positive − negative) captures overall sentiment polarity. Documents are further classified as **hawkish**, **dovish**, or **neutral** using a combination of sentiment scores and monetary policy keyword matching.
-
-### Signal Extraction
-
-Three components are combined into a composite financial signal:
-
-1. **Sentiment Level** (weight: 0.4) — Absolute hawkish/dovish stance
-2. **Topic Shift** (weight: 0.3) — Jensen-Shannon divergence between consecutive monthly topic distributions
-3. **Sentiment Momentum** (weight: 0.3) — Rate of change in sentiment over a 3-month window
-
----
-
-## Architecture
-
-```mermaid
-flowchart TB
-    subgraph Collection["Data Collection"]
-        BOE[Bank of England] --> Scrape
-        FED[Federal Reserve] --> Scrape
-        ECB[European Central Bank] --> Scrape
-        Scrape[Web Scrapers] --> Raw[Raw Documents]
-    end
-
-    subgraph Processing["Text Processing"]
-        Raw --> Clean[Text Cleaning]
-        Clean --> Chunk[Document Chunking]
-        Chunk --> Prep[Prepared Documents]
-    end
-
-    subgraph Analysis["NLP Analysis"]
-        Prep --> Topics[BERTopic\nTopic Modelling]
-        Prep --> Sentiment[FinBERT\nSentiment Scoring]
-        Topics --> TopicDist[Topic Distributions]
-        Sentiment --> Stance[Stance Classification]
-    end
-
-    subgraph Signals["Signal Extraction"]
-        TopicDist --> Shift[Topic Shift\nJS Divergence]
-        Stance --> HDI[Hawkish-Dovish\nIndex]
-        Stance --> Momentum[Sentiment\nMomentum]
-        Shift --> Composite[Composite Signal]
-        HDI --> Composite
-        Momentum --> Composite
-    end
-
-    subgraph Output["Evaluation"]
-        Composite --> Plots[Visualisations]
-        Composite --> CSV[Signal CSVs]
-        Topics --> Coherence[Coherence Scores]
-    end
-```
-
----
-
-## Results (Sample Data)
-
-| Metric | Value |
-|--------|-------|
-| Topics Discovered | 5 |
-| Documents Analysed | 200 |
-| Outlier Documents | 0% |
-| Monthly Signals | 126 |
-| Hawkish Months | 44 (34.9%) |
-| Dovish Months | 15 (11.9%) |
-| Neutral Months | 67 (53.2%) |
-
-**Note:** Results shown are from synthetic sample data. Real-world performance depends on the quality and volume of scraped documents.
-
----
-
-## Quick Start
+## Quick start
 
 ```bash
-# 1. Clone the repository
 git clone https://github.com/VishalKJ-ai/nlp-financial-signals.git
 cd nlp-financial-signals
-
-# 2. Create virtual environment
 python -m venv .venv && source .venv/bin/activate
+pip install -r requirements-lock.txt
 
-# 3. Install dependencies
-pip install -r requirements.txt
+# Collect the corpus (~92 PDFs, rate-limited)
+python -m src.data.fomc_presser_scraper
 
-# 4. Run with sample data (no scraping required)
-python -m src.pipeline --mode sample
+# Run the staged pipeline
+python -m src.dissertation_pipeline --stage prepare
+python -m src.dissertation_pipeline --stage topics
+python -m src.dissertation_pipeline --stage sentiment
+python -m src.dissertation_pipeline --stage aggregate
 
-# 5. View results
-ls outputs/figures/      # Evaluation plots
-ls outputs/signals/      # Signal CSVs
+# Evaluation arms (LM master dictionary: download from https://sraf.nd.edu
+# into data/external/Loughran-McDonald_MasterDictionary.csv first)
+python -m src.evaluation.lm_baseline
+python -m src.evaluation.market_validation
+
+# Robustness + figures
+python -m src.dissertation_pipeline --stage grid
+python -m src.dissertation_pipeline --stage stability
+python -m src.evaluation.dissertation_figures
 ```
 
-### Docker
+All parameters live in `config/dissertation.yaml`; every stage persists its artefacts, so figures and tables regenerate without re-running models. Results land in `outputs/dissertation/`.
 
-```bash
-docker compose up                            # Sample mode
-docker compose run signals --mode full       # Full pipeline
-```
-
----
-
-## Configuration
-
-All parameters are centralised in `config/config.yaml`:
-
-```yaml
-topics:
-  embedding_model: "all-MiniLM-L6-v2"
-  nr_topics: "auto"
-  min_topic_size: 10
-  umap:
-    n_neighbors: 15
-    n_components: 5
-
-sentiment:
-  model_name: "ProsusAI/finbert"
-  batch_size: 32
-
-signals:
-  composite_weights:
-    topic_shift: 0.3
-    sentiment_level: 0.4
-    sentiment_change: 0.3
-```
-
----
-
-## Project Structure
+## Repository layout
 
 ```
 nlp-financial-signals/
-├── config/config.yaml              # Centralised configuration
-├── data/
-│   └── sample/                     # Bundled sample data (200 documents)
+├── config/dissertation.yaml            # All dissertation parameters + seeds
 ├── src/
-│   ├── pipeline.py                 # Main orchestrator (3 modes)
+│   ├── dissertation_pipeline.py        # Staged orchestrator
 │   ├── data/
-│   │   ├── boe_scraper.py          # Bank of England scraper
-│   │   ├── fed_scraper.py          # Federal Reserve scraper
-│   │   ├── ecb_scraper.py          # ECB scraper
-│   │   └── preprocessor.py         # Text cleaning and chunking
-│   ├── topics/
-│   │   └── topic_model.py          # BERTopic wrapper
-│   ├── sentiment/
-│   │   └── finbert_scorer.py       # FinBERT sentiment scorer
-│   ├── signals/
-│   │   └── extractor.py            # Composite signal extraction
+│   │   ├── fomc_presser_scraper.py     # Transcript download + speaker parsing
+│   │   └── presser_preprocessor.py     # Disfluency cleaning + sentence units
+│   ├── sentiment/finbert_scorer.py     # FinBERT inference (variant-agnostic labels)
 │   └── evaluation/
-│       └── evaluator.py            # Metrics and visualisations
-├── tests/                          # pytest test suite
-├── notebooks/exploration.ipynb     # Exploratory data analysis
-├── Dockerfile                      # Container build
-├── docker-compose.yml              # Multi-service orchestration
-└── .github/workflows/pipeline.yml  # Automated monthly analysis
+│       ├── lm_baseline.py              # Loughran-McDonald benchmark (Arm 2)
+│       ├── market_validation.py        # Market regressions (Arm 3)
+│       └── dissertation_figures.py     # All Chapter 4 figures, scripted
+├── tests/                              # pytest suite
+└── outputs/dissertation/               # Frozen tables, series, figures
 ```
 
----
+The repository also contains an earlier multi-bank prototype (BoE/Fed/ECB speeches with a composite hawkish/dovish indicator, `src/pipeline.py`) retained as an extension direction; the dissertation methodology above supersedes it.
 
-## Running Tests
+## Tech stack
 
-```bash
-pytest tests/ -v --tb=short
-```
+BERTopic · sentence-transformers · HuggingFace Transformers (FinBERT) · UMAP · HDBSCAN · Gensim (Cv coherence) · statsmodels · pandas · matplotlib · pytest
 
----
+## Ethics & licensing
 
-## Tech Stack
-
-| Component | Library | Version |
-|-----------|---------|---------|
-| Topic Modelling | BERTopic | 0.16.0 |
-| Embeddings | sentence-transformers | 2.5.1 |
-| Dimensionality Reduction | UMAP | 0.5.5 |
-| Clustering | HDBSCAN | 0.8.33 |
-| Sentiment Analysis | transformers (FinBERT) | 4.38.2 |
-| Deep Learning | PyTorch | 2.2.1 |
-| Coherence Metrics | Gensim | 4.3.2 |
-| Web Scraping | BeautifulSoup4 | 4.12.3 |
-| Data Processing | pandas, NumPy | 2.2.1, 1.26.4 |
-| Visualisation | matplotlib, seaborn | 3.8.3, 0.13.2 |
-| Testing | pytest | 8.0.2 |
-
----
-
-## Limitations
-
-- **Sample data:** Synthetic documents lack the nuance of real central bank communications
-- **Scraper fragility:** Web scrapers depend on page structure that may change
-- **No real-time processing:** Batch pipeline only, not suitable for live trading signals
-- **Limited validation:** Signal correlation with markets requires historical market data
-- **Single language:** English documents only (ECB publishes in multiple languages)
-- **Coherence metrics:** Require Gensim; fall back to zero when unavailable
-
-## Future Work
-
-- Integrate additional NLP models (GPT-based zero-shot classification)
-- Add Streamlit dashboard for interactive exploration
-- Implement rolling backtesting framework for signal evaluation
-- Extend to additional central banks (RBA, BOJ, SNB)
-- Add probabilistic forecasting of rate decisions
-- MLflow integration for experiment tracking
-- Real-time scraping with Airflow/Prefect scheduling
-
----
+FOMC transcripts are public-domain institutional records with no human-subject concerns. FinBERT and Sentence-BERT are Apache-2.0 via Hugging Face. Extracted signals are academic research outputs, not financial advice or trading signals. Code, seeds, and configuration are published for reproducibility.
 
 ## Author
 
-**Vishal Joshi**
-MSc Applied Artificial Intelligence, University of Warwick (2025–2026)
-
-*This project demonstrates proficiency in unsupervised NLP, transformer-based sentiment analysis, and financial signal extraction from unstructured text data.*
+**Vishal Joshi** — MSc Applied Artificial Intelligence, University of Warwick (2025–2026)

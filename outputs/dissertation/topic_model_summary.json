@@ -1,0 +1,9 @@
+{
+  "n_topics": 54,
+  "outlier_share": 0.33735048115837757,
+  "cv_coherence": 0.6634886643356028,
+  "seed": 42,
+  "umap_n_neighbors": 10,
+  "hdbscan_min_cluster_size": 100,
+  "hdbscan_min_samples": 10
+}

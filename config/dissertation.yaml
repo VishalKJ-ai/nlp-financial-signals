@@ -1,0 +1,71 @@
+# Dissertation Pipeline Configuration
+# ====================================
+# Implements Chapter 3: cluster-level sentiment signals from FOMC
+# press conference transcripts (April 2011 - present).
+
+random_seed: 42
+
+corpus:
+  raw_dir: "data/raw/fomc_pressconf"
+  turns_path: "data/processed/fomc_pressconf_turns.parquet"
+  units_path: "data/processed/fomc_pressconf_sentences.parquet"
+  min_sentence_words: 6
+  include_opening_statement: false   # Ch3: Chair's answers only
+
+data:
+  rate_limit_seconds: 1.5
+  timeout_seconds: 30
+
+# BERTopic over sentence units (Ch3 s3.3)
+topics:
+  embedding_model: "all-MiniLM-L6-v2"
+  # Primary configuration selected from the sensitivity grid by a fixed
+  # rule: among configurations within 0.03 Cv of the grid maximum,
+  # take the lowest outlier share. On the final grid this selects
+  # (n_neighbors=10, min_cluster_size=100, min_samples=10): Cv 0.663,
+  # 33.7% outliers, 54 topics. See tables/coherence_grid.csv.
+  umap:
+    n_neighbors: 10
+    n_components: 5
+    min_dist: 0.0
+    metric: "cosine"
+    random_state: 42
+  hdbscan:
+    min_cluster_size: 100
+    min_samples: 10
+    metric: "euclidean"
+    cluster_selection_method: "eom"
+  top_n_words: 10
+  # Structured sensitivity grid (Ch3 s3.5 robustness)
+  grid:
+    umap_n_neighbors: [10, 15, 25]
+    hdbscan_min_cluster_size: [30, 50, 100]
+    hdbscan_min_samples: [5, 10]
+
+# FinBERT sentiment (Ch3 s3.3: Yang et al. 2020 variant)
+sentiment:
+  model_name: "yiyanghkust/finbert-tone"
+  max_length: 128               # Sentence-level units are short
+  batch_size: 64
+  device: "auto"
+
+# Evaluation (Ch3 s3.5)
+evaluation:
+  coherence_measure: "c_v"
+  lm_dictionary_path: "data/external/Loughran-McDonald_MasterDictionary.csv"
+  market:
+    fred_series: "DGS2"         # 2-year Treasury yield, free via FRED
+    futures_ticker: "ZQ=F"      # 30-day fed funds futures, via yfinance
+    event_window_days: 1        # Meeting-day change in expectations
+  stability_seeds: [1, 7, 42, 123, 2026]
+
+output:
+  processed_dir: "data/processed"
+  figures_dir: "outputs/dissertation/figures"
+  tables_dir: "outputs/dissertation/tables"
+  models_dir: "models/dissertation"
+  results_dir: "outputs/dissertation"
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
