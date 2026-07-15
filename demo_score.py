@@ -1,10 +1,11 @@
 """Live demo: FinBERT vs the Loughran-McDonald dictionary, then FinBERT's limit.
 
-Run via ./demo — loads the cached model silently and prints two short acts:
-  1. Why a context-reading transformer beats a word-counting dictionary.
-  2. Where even the domain-tuned transformer hits its limit (tone vs stance).
+Run via ./demo — loads the cached model silently and prints:
+  Act 1 (always): why a context-reading transformer beats a word-counting dictionary.
+  Act 2 (only with `./demo limits`): the tone-vs-stance boundary of the domain model.
 """
 
+import sys
 from pathlib import Path
 
 import transformers
@@ -45,12 +46,13 @@ print("\n  Same dictionary score for both - it counts the word 'concerned' and c
 print("  The transformer reads the whole sentence. This is why the pipeline scores with FinBERT")
 print("  and keeps the dictionary only as a validation benchmark.")
 
-print("\n[2] Where even FinBERT hits its limit")
-print(f"\n  {'FinBERT':<18}{'LM dict':<10}sentence")
-print("  " + "-" * 95)
-print(row("Inflation remains elevated, and we are attentive to the risks it poses to both sides of our mandate."))
-print("\n  Hawkish, bad-news content - scored POSITIVE. FinBERT reads confident institutional")
-print("  language as optimism: it measures TONE, not policy STANCE. That construct gap is a core")
-print("  finding of the dissertation, and why results are validated against market data rather")
-print("  than trusted on faith.")
+if len(sys.argv) > 1 and sys.argv[1] == "limits":
+    print("\n[2] Where even FinBERT hits its limit")
+    print(f"\n  {'FinBERT':<18}{'LM dict':<10}sentence")
+    print("  " + "-" * 95)
+    print(row("Inflation remains elevated, and we are attentive to the risks it poses to both sides of our mandate."))
+    print("\n  Hawkish, bad-news content - scored POSITIVE. FinBERT reads confident institutional")
+    print("  language as optimism: it measures TONE, not policy STANCE. That construct gap is a core")
+    print("  finding of the dissertation, and why results are validated against market data rather")
+    print("  than trusted on faith.")
 print()
