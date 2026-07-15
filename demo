@@ -2,7 +2,8 @@
 # One-command interview demo. Run:  ./demo        (live FinBERT scoring)
 #                                   ./demo tests  (run the test suite)
 cd "$(dirname "$0")"
+export HF_HUB_OFFLINE=1   # model is cached locally; no network needed
 if [[ "$1" == "tests" ]]; then
-  exec ./.venv/bin/python -m pytest tests/ -q
+  exec ./.venv/bin/python -m pytest tests/ -q --disable-warnings
 fi
 exec ./.venv/bin/python demo_score.py
