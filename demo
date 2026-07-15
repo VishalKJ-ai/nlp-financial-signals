@@ -2,7 +2,9 @@
 # One-command interview demo. Run:  ./demo        (live FinBERT scoring)
 #                                   ./demo tests  (run the test suite)
 cd "$(dirname "$0")"
-export HF_HUB_OFFLINE=1   # model is cached locally; no network needed
+export HF_HUB_OFFLINE=1                  # model is cached locally; no network needed
+export HF_HUB_DISABLE_PROGRESS_BARS=1    # no progress-bar smear in terminal
+export TQDM_DISABLE=1
 if [[ "$1" == "tests" ]]; then
   exec ./.venv/bin/python -m pytest tests/ -q --disable-warnings
 fi

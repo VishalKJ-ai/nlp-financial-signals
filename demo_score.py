@@ -1,9 +1,17 @@
 """Live demo: score Fed-style sentences with the pipeline's FinBERT scorer.
 
-Run once before the interview to warm the model cache, then live on call.
+Run via ./demo — loads the cached model silently and prints a clean table.
 """
 
+import transformers
+
+transformers.logging.set_verbosity_error()
+transformers.logging.disable_progress_bar()
+
 from src.sentiment.finbert_scorer import FinBERTScorer
+
+print("\nFinBERT (yiyanghkust/finbert-tone) — live sentence scoring")
+print("Loading model from local cache...", flush=True)
 
 scorer = FinBERTScorer({"sentiment": {
     "model_name": "yiyanghkust/finbert-tone",
@@ -22,5 +30,7 @@ print("-" * 100)
 for text in SENTENCES:
     result = scorer._score_single(text)
     print(f"{result['label']:>8}  {result['compound']:+.2f}  {text}")
-print("\nNote the second sentence: hawkish content, POSITIVE tone score.")
+print()
+print("Note the second sentence: hawkish content, POSITIVE tone score.")
 print("FinBERT measures tone, not policy stance - the construct distinction in Chapter 5.")
+print()
