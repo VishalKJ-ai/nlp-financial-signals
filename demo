@@ -6,6 +6,6 @@ export HF_HUB_OFFLINE=1                  # model is cached locally; no network n
 export HF_HUB_DISABLE_PROGRESS_BARS=1    # no progress-bar smear in terminal
 export TQDM_DISABLE=1
 if [[ "$1" == "tests" ]]; then
-  exec ./.venv/bin/python -m pytest tests/ -q --disable-warnings
+  exec ./.venv/bin/python -m pytest tests/ -q -p no:warnings
 fi
 exec ./.venv/bin/python demo_score.py
