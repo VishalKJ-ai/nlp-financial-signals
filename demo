@@ -1,0 +1,8 @@
+#!/bin/zsh
+# One-command interview demo. Run:  ./demo        (live FinBERT scoring)
+#                                   ./demo tests  (run the test suite)
+cd "$(dirname "$0")"
+if [[ "$1" == "tests" ]]; then
+  exec ./.venv/bin/python -m pytest tests/ -q
+fi
+exec ./.venv/bin/python demo_score.py
