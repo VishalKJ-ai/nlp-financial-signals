@@ -14,7 +14,7 @@
 
 When the Fed Chair speaks, markets move. A whole industry scores the "sentiment" of these communications — almost always as **one number per document**. This project demonstrates that the single number is close to meaningless *by construction*: a press conference is routinely optimistic about the economy and pessimistic about unemployment **at the same time**, and averaging opposing signals cancels them to zero. I call this **signal washout**.
 
-The pipeline fixes it. It reads all **92 Fed press conferences since 2011**, uses transformer language models to discover *what* the Chair is talking about (unsupervised — no labels, no keyword lists) and *how* he talks about each theme, and outputs a **per-theme sentiment time series** instead of one washed-out score. The theme-level signals explain roughly **20× more** of the market's meeting-day reaction than the document-level score they replace.
+The pipeline fixes it. It reads **92 of the 93 Fed press conferences since 2011** (one fell to a URL anomaly on the Fed's site — see the data-quality notes below), uses transformer language models to discover *what* the Chair is talking about (unsupervised — no labels, no keyword lists) and *how* they talk about each theme, and outputs a **per-theme sentiment time series** instead of one washed-out score. The theme-level signals explain roughly **20× more** of the market's meeting-day reaction than the document-level score they replace.
 
 ![Signal washout](outputs/dissertation/figures/fig_signal_washout.png)
 
@@ -84,6 +84,7 @@ Two findings worth knowing about beyond the headline: **coherence metrics certif
 - **FinBERT variant chosen deliberately** — the Yang et al. (2020) model, trained on financial communications rather than news. Implementation gotcha caught in testing: the two published FinBERT variants order their output labels differently, so label maps are read from the model config at runtime — hardcoding would have silently swapped neutral and positive.
 - **Configuration by rule, not taste.** The topic model configuration was selected by a rule fixed before inspecting results (within 0.03 Cv of grid max → lowest outlier share), with the full 18-configuration grid and 5-seed stability analysis published.
 - **Data quality found the hard way.** PDF extraction splices running page headers into mid-sentence text ("It *March 21, 2018 Chairman Powell's Press Conference FINAL Page 7 of 22* would take…"). An early run produced an entire spurious topic of these fragments — caught by qualitative inspection, fixed with regression tests. 216 contaminated units excised.
+- **The misses that prove the point.** A post-freeze audit found two survivors: 27 contaminated sentences at one 2018 meeting (the extractor split a word *inside* the header — "Powe ll's" — defeating the excision regex), and a whole missing meeting — the Fed's calendar links the 28 Jan 2026 press conference under an anomalously spelled URL (`fomcpressconf` vs the standard `fomcpresconf`), so the scraper never saw it. Neither materially affects any result; both are disclosed in the dissertation. Pipelines fail silently — audit them.
 - **Honest statistics.** Heteroscedasticity-robust errors, Benjamini-Hochberg multiple-testing correction, and a results chapter that reports what *didn't* survive correction as plainly as what did.
 
 ---
